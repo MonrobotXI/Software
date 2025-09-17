@@ -1,0 +1,5821 @@
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|ooo o.ooo| TX
+|   o .   | 00
+|     .ooo| 07
+| oo  .o  | 34
+|     .  o| 01
+|   o .   | 00
+| o  o.o  | 2U
+|   o .   | 00
+|   o .   | 00
+| oo  .o  | 34
+|     .  o| 01
+|     .  o| 01
+| o  o.o  | 2U
+|   o .   | 00
+|     .  o| 01
+| oo  .o  | 34
+|   o .   | 00
+|   oo.ooo| 0X
+| o  o.o  | 2U
+|   o .   | 00
+|   o . oo| 03
+| oo  .o  | 34
+|     .  o| 01
+|     . o | 02
+| o  o.o  | 2U
+|   o .   | 00
+|     .o  | 04
+| oo  .  o| 31
+|  o  .   | 10
+|   o .   | 00
+|   oo.o  | 0U
+| oooo.o  | 3U
+|   o .   | 00
+| o oo.   | 28
+| oo o.   | 38
+|   o .   | 00
+| ooo .   | 30
+|   o .   | 00
+|   o .o o| 05
+|   oo.o  | 0U
+| oooo.o  | 3U
+|     .  o| 01
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   oo.ooo| 0X
+|   oo.ooo| 0X
+|   oo.o  | 0U
+|   o .   | 00
+|     .ooo| 07
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o . oo| 03
+|   oo.ooo| 0X
+| o   .o o| 25
+|   o .   | 00
+|     .  o| 01
+| oooo.o  | 3U
+|   o .   | 00
+|     .  o| 01
+| o  o.o  | 2U
+|   o .   | 00
+|     .  o| 01
+| oo  .o  | 34
+|     .  o| 01
+|   oo.o  | 0U
+| o oo.   | 28
+|   o .   | 00
+|   o .   | 00
+|   oo.o  | 0U
+|   o .   | 00
+|   o .   | 00
+| o  o.o  | 2U
+|   o .   | 00
+|     .  o| 01
+| oo o.   | 38
+|   o .   | 00
+|     .o  | 04
+|  o o.o  | 1U
+|   o .   | 00
+|     .  o| 01
+|   oo.o  | 0U
+|     .  o| 01
+|   o .o o| 05
+|   o .   | 00
+|   oo.ooo| 0X
+|   oo.ooo| 0X
+|   oo.o  | 0U
+|     .  o| 01
+|   oo.  o| 09
+| o oo.   | 28
+|   o .   | 00
+|   o .   | 00
+| oo  .o  | 34
+|     .  o| 01
+|   oo.o  | 0U
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     .  o| 01
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o . oo| 03
+|   oo.ooo| 0X
+| oo  .o  | 34
+|     .  o| 01
+|    o. oo| 0T
+| o  o.o  | 2U
+|   o .   | 00
+|     .o  | 04
+|   oo.o  | 0U
+|   o .   | 00
+|     .ooo| 07
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+| o oo.   | 28
+|   o .   | 00
+|   o .   | 00
+| oo  .o  | 34
+| oo o. oo| 3T
+|   oo.ooo| 0X
+| oooo.ooo| 3X
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| ooo .   | 30
+|     . o | 02
+| oo o. oo| 3T
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o o .o  | 24
+|   o .oo | 06
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o oo.oo | 2W
+| oooo.ooo| 3X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oooo.ooo| 3X
+|     . o | 02
+| o  o. o | 2S
+| oooo. o | 3S
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+| o o .o  | 24
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+|  oo .  o| 11
+| oo o. oo| 3T
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|  oo .  o| 11
+|  oo .  o| 11
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   o .o o| 05
+| oo o.oo | 3W
+| oooo.ooo| 3X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|  oo .  o| 11
+|     .o  | 04
+|  oo .o  | 14
+| ooo .o o| 35
+|    o.oo | 0W
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+|  oo .ooo| 17
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o oo.oo | 2W
+|    o.oo | 0W
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|    o.   | 08
+|  o  .o o| 15
+| ooo .o o| 35
+|    o.oo | 0W
+|  oo .ooo| 17
+| o o .o  | 24
+|   oo.  o| 09
+|   oo.  o| 09
+|    o.   | 08
+|    o.oo | 0W
+| o o .o  | 24
+|  oo .ooo| 17
+|   o .o o| 05
+| oooo.  o| 39
+|   oo.  o| 09
+|     . o | 02
+|  oo .ooo| 17
+|  oo .ooo| 17
+|    o.oo | 0W
+|  o o.ooo| 1X
+|   oo. o | 0S
+|   oo. o | 0S
+| oooo. o | 3S
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+| o   . oo| 23
+|  oo .ooo| 17
+|   oo.  o| 09
+|   oo.  o| 09
+| ooo .o o| 35
+|    o.oo | 0W
+|  oo .ooo| 17
+|  ooo.o o| 1V
+|   o .   | 00
+|  o  .o o| 15
+| ooo .o o| 35
+|    o.oo | 0W
+| o o .o  | 24
+|  oo .ooo| 17
+|   oo.  o| 09
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+|  oo .ooo| 17
+| o o .ooo| 27
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| ooo .o o| 35
+|    o.oo | 0W
+|  oo .ooo| 17
+| o o .ooo| 27
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+|  oo .ooo| 17
+| o o .o  | 24
+|    o.oo | 0W
+|  o o.  o| 19
+| oooo.  o| 39
+|     . o | 02
+| o o .o  | 24
+|  oo .ooo| 17
+|   o .o o| 05
+| o   .o o| 25
+| ooo .o o| 35
+|    o.oo | 0W
+|  oo .ooo| 17
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+| ooo .o o| 35
+|    o.oo | 0W
+| o o .ooo| 27
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+| o o .o  | 24
+| o o .ooo| 27
+|   o .oo | 06
+|   o .o o| 05
+| oooo.  o| 39
+|     . o | 02
+| o o .o  | 24
+| o o .o  | 24
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+|  oo .ooo| 17
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+| ooo .o o| 35
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+| oooo.  o| 39
+|     . o | 02
+| o o .o  | 24
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| ooo .o o| 35
+|    o.oo | 0W
+| o o .o  | 24
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   oo.  o| 09
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+| o   . oo| 23
+| o o .ooo| 27
+|   oo.  o| 09
+| oooo.  o| 39
+| oo o.oo | 3W
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .ooo| 17
+|     .o  | 04
+|  ooo.oo | 1W
+| oooo.ooo| 3X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|  ooo.   | 18
+|    o.oo | 0W
+|  o o.  o| 19
+| oo  .ooo| 37
+|   o .oo | 06
+| oo o. oo| 3T
+| o o .ooo| 27
+|     .ooo| 07
+|  ooo.oo | 1W
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.o o| 1V
+| oo o. oo| 3T
+|     .o  | 04
+|  ooo.oo | 1W
+|  ooo.   | 18
+|    o.oo | 0W
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o o .o  | 24
+|  oo .ooo| 17
+|   o .oo | 06
+| oo o. oo| 3T
+| o o .ooo| 27
+|     .ooo| 07
+|  ooo.oo | 1W
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.o o| 1V
+| oo o. oo| 3T
+|    o.oo | 0W
+|  oo .ooo| 17
+|  ooo.oo | 1W
+|    o.oo | 0W
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.  o| 09
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|  ooo.   | 18
+| oooo.  o| 39
+|   o .oo | 06
+|   oo.  o| 09
+| oo  .ooo| 37
+|   o .oo | 06
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o  o.  o| 29
+| oo o.oo | 3W
+|   o .oo | 06
+| ooo .oo | 36
+| o  o.  o| 29
+|   oo.  o| 09
+| oooo.  o| 39
+| oo  .ooo| 37
+|   o .oo | 06
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o  o.  o| 29
+| ooo .oo | 36
+|     . o | 02
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| oo  .o  | 34
+|  o o.ooo| 1X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .oo | 06
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .  o| 11
+|     .o  | 04
+|  o  .o o| 15
+| oo  .o  | 34
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .oo | 16
+|   oo.  o| 09
+|    o.oo | 0W
+| o o .o  | 24
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .oo | 06
+|   oo.  o| 09
+| oo  .ooo| 37
+|   o .oo | 06
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o  o.  o| 29
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.o o| 1V
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o   .o o| 25
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  oo .o  | 14
+|  o o.  o| 19
+|    o.oo | 0W
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| o   . oo| 23
+|     .ooo| 07
+|  ooo.oo | 1W
+| oooo.ooo| 3X
+|     . o | 02
+| o  o. o | 2S
+| oooo. o | 3S
+|     .ooo| 07
+|  ooo.oo | 1W
+| oooo.ooo| 3X
+|     . o | 02
+| o  o. o | 2S
+| oooo. o | 3S
+|     .ooo| 07
+|  ooo.oo | 1W
+| oooo.ooo| 3X
+|     . o | 02
+| o  o. o | 2S
+| oooo. o | 3S
+|     .ooo| 07
+|  ooo.oo | 1W
+| oo o.oo | 3W
+|   o .oo | 06
+|  ooo.o o| 1V
+| oo o. oo| 3T
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| o o .ooo| 27
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| oo  .ooo| 37
+|   o .oo | 06
+| ooo .   | 30
+| o o .ooo| 27
+|     .ooo| 07
+|  o o.ooo| 1X
+|   oo. o | 0S
+|   oo. o | 0S
+| oooo. o | 3S
+| o o .ooo| 27
+|     .ooo| 07
+|  o o.ooo| 1X
+|   oo. o | 0S
+|   oo. o | 0S
+| oooo. o | 3S
+| o o .ooo| 27
+|   o .oo | 06
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+| o o .ooo| 27
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+| o o .ooo| 27
+| o o . o | 22
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.   | 08
+| ooo .o o| 35
+| oooo.ooo| 3X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .oo | 06
+|   oo.  o| 09
+| oooo.  o| 39
+|    o.oo | 0W
+| o o .ooo| 27
+|  ooo.   | 18
+|   oo.  o| 09
+|   o .o o| 05
+|  o o.ooo| 1X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oooo.ooo| 3X
+|   oo. o | 0S
+|   oo. o | 0S
+| oooo. o | 3S
+|  oo .  o| 11
+|     .o  | 04
+|  o  .o o| 15
+| oo o.oo | 3W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.  o| 09
+|   oo.ooo| 0X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oooo.ooo| 3X
+|     . o | 02
+| o  o. o | 2S
+| oooo. o | 3S
+|     .o  | 04
+|  oo .o  | 14
+|  o  .o o| 15
+|    o.oo | 0W
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   o .oo | 06
+|   o .oo | 06
+|   oo.  o| 09
+|    o.oo | 0W
+| o o . o | 22
+| o o . o | 22
+|    o.   | 08
+| oo o.   | 38
+| oo o.oo | 3W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  o  .o o| 15
+|   oo.  o| 09
+|   oo.ooo| 0X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|     .o  | 04
+|  o  .o o| 15
+| oo o.oo | 3W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|    o.oo | 0W
+| o o .ooo| 27
+| o o .ooo| 27
+|   oo.  o| 09
+| oo o.   | 38
+| o oo.   | 28
+|    o.oo | 0W
+| o o .o  | 24
+| o   . oo| 23
+|    o.   | 08
+| ooo .o o| 35
+| oooo.  o| 39
+|     . o | 02
+| o oo.   | 28
+| oo o. oo| 3T
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+| oo o. oo| 3T
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| ooo .o o| 35
+| oo o.oo | 3W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|    o.oo | 0W
+|  ooo.   | 18
+| o o .ooo| 27
+|   oo.  o| 09
+| oooo.  o| 39
+| oooo.  o| 39
+|     . o | 02
+| o o .o  | 24
+| o oo.   | 28
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+|  ooo.o o| 1V
+| oo o. oo| 3T
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+|  ooo.o o| 1V
+| oo o. oo| 3T
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+|  ooo.o o| 1V
+| oo o. oo| 3T
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+|  ooo.o o| 1V
+| oo o. oo| 3T
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+|  ooo.o o| 1V
+| oo o. oo| 3T
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o o .o  | 24
+|  o o.  o| 19
+|     . o | 02
+|  oo .  o| 11
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o  o.ooo| 2X
+|     . o | 02
+| o  o. o | 2S
+| oooo. o | 3S
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o  o.ooo| 2X
+|   oo. o | 0S
+|   oo. o | 0S
+| oooo. o | 3S
+| oo o. oo| 3T
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|  oo .  o| 11
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .ooo| 17
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  oo .ooo| 17
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  oo .ooo| 17
+| o o .o  | 24
+|   oo.  o| 09
+|   o .o o| 05
+| ooo .o o| 35
+|    o.oo | 0W
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   oo.  o| 09
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+| o o .ooo| 27
+|  oo .ooo| 17
+|   oo.  o| 09
+| oooo. o | 3S
+|   oo.ooo| 0X
+|     . o | 02
+| o  o. o | 2S
+| oooo. o | 3S
+|   o .o o| 05
+| oooo.ooo| 3X
+|   oo. o | 0S
+|   oo. o | 0S
+| oooo. o | 3S
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| oooo. o | 3S
+|     . o | 02
+|  oo .ooo| 17
+| o o .o  | 24
+|     .o  | 04
+|  o o.ooo| 1X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|  oo .  o| 11
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| o   . oo| 23
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| oo o.oo | 3W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| o o .ooo| 27
+|   oo.  o| 09
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| oooo. o | 3S
+|     . o | 02
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o  o.  o| 29
+|   oo.  o| 09
+|     . o | 02
+| o o .ooo| 27
+| o o .ooo| 27
+|   o .o o| 05
+| oooo.  o| 39
+|    o.oo | 0W
+|   o .oo | 06
+| o oo.   | 28
+|  oo .ooo| 17
+|   oo.  o| 09
+| ooo .o o| 35
+|  o  .o o| 15
+|    o.oo | 0W
+| oooo.  o| 39
+| o o .o  | 24
+|    o.oo | 0W
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|    o.oo | 0W
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  oo .ooo| 17
+| o o .o  | 24
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   oo.  o| 09
+| oooo.  o| 39
+| ooo .o o| 35
+|    o.oo | 0W
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| oo o.oo | 3W
+|   o .oo | 06
+| o o .ooo| 27
+| o o .ooo| 27
+|   oo. o | 0S
+|   o .o o| 05
+| oooo.  o| 39
+|     . o | 02
+| o o .o  | 24
+|  oo .ooo| 17
+|   o .o o| 05
+|  o  .   | 10
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+| o o .o  | 24
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|     .o  | 04
+|  o  .o o| 15
+| oo o.oo | 3W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| oooo.  o| 39
+|     . o | 02
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| o oo.   | 28
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+| o o .o  | 24
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+| o o .ooo| 27
+| o o .ooo| 27
+|    o.oo | 0W
+|  o o.  o| 19
+|   oo.  o| 09
+|    o.oo | 0W
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+| o o .o  | 24
+| oo o. oo| 3T
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+| ooo .o o| 35
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+| o o .o  | 24
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o. o | 1S
+|     . o | 02
+| o o . o | 22
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o oo.oo | 2W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| ooo .o o| 35
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|   oo.  o| 09
+|   o .o o| 05
+| ooo .o o| 35
+|    o.oo | 0W
+|  oo .ooo| 17
+| o o .o  | 24
+|   oo.  o| 09
+| oo o.oo | 3W
+|  o  .o o| 15
+|   o .oo | 06
+| oo o. oo| 3T
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.  o| 09
+|   oo.  o| 09
+|   oo.ooo| 0X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|    o.oo | 0W
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  oo .ooo| 17
+| o o .o  | 24
+|   oo.  o| 09
+|   o .o o| 05
+| oo o.oo | 3W
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.  o| 09
+| o o .ooo| 27
+|  o o.  o| 19
+|     . o | 02
+| o o .o  | 24
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|    o.oo | 0W
+|  oo .ooo| 17
+| o o .o  | 24
+|   oo.  o| 09
+|   o .o o| 05
+| ooo .o o| 35
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| oooo.ooo| 3X
+|     . o | 02
+| o  o. o | 2S
+| oooo. o | 3S
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.  o| 09
+|   oo.  o| 09
+|   oo.ooo| 0X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     .o  | 04
+|   o .oo | 06
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+| o o .o  | 24
+| oo  .  o| 31
+|   oo.  o| 09
+|   o .o o| 05
+| oo o.oo | 3W
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.  o| 09
+|   oo.  o| 09
+|   o .oo | 06
+|     . o | 02
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+|  oo .ooo| 17
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   oo. o | 0S
+|   oo.  o| 09
+|   oo.  o| 09
+|     . o | 02
+| o o .o  | 24
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| oo o.oo | 3W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| oooo.ooo| 3X
+|     . o | 02
+| o  o. o | 2S
+| oooo. o | 3S
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  oo .ooo| 17
+| o o .o  | 24
+|   o .   | 00
+|   o .o o| 05
+|  o o.  o| 19
+|     . o | 02
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o. o | 1S
+|     . o | 02
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o   .o o| 25
+| oooo.  o| 39
+|     . o | 02
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o o. o | 1S
+|    o.oo | 0W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+| o   .oo | 26
+|  ooo.o o| 1V
+|   oo.  o| 09
+|   oo.  o| 09
+|    o.oo | 0W
+|   o .oo | 06
+| o o .o  | 24
+|  oo .ooo| 17
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o o.  o| 19
+| o   .o o| 25
+|    o.oo | 0W
+| o o .o  | 24
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| o o .ooo| 27
+|  oo .ooo| 17
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+|   o .   | 00
+|  oo .  o| 11
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   oo.  o| 09
+|     .o  | 04
+|  o  .   | 10
+|     . o | 02
+|  o  .o o| 15
+| o o .o  | 24
+|   oo. o | 0S
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o o. o | 1S
+|   oo. o | 0S
+|     . o | 02
+|  oo .ooo| 17
+| o o .o  | 24
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| oo o.   | 38
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|    o.oo | 0W
+| o o .o  | 24
+| o o .o  | 24
+|   o .o o| 05
+| ooo .o o| 35
+|  o  .o o| 15
+|    o.oo | 0W
+| oooo.  o| 39
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| oooo.  o| 39
+| oooo.  o| 39
+|     . o | 02
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| oooo.  o| 39
+|     . o | 02
+| oo o. oo| 3T
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|  oo .  o| 11
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  oo .ooo| 17
+|  o  .o o| 15
+|   o .   | 00
+|   o .   | 00
+|   oo.ooo| 0X
+|     . o | 02
+| o  o. o | 2S
+| oooo. o | 3S
+|   oo.  o| 09
+|   oo.  o| 09
+|   oo.  o| 09
+|    o.oo | 0W
+| o o .ooo| 27
+| o o .ooo| 27
+|   oo.  o| 09
+| oooo.  o| 39
+| ooo .oo | 36
+|     . o | 02
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|    o.oo | 0W
+|  oo .ooo| 17
+| o oo.   | 28
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  o  .o o| 15
+|    o.oo | 0W
+| ooo .   | 30
+|   o .   | 00
+|     . o | 02
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .oo | 06
+|   o .o o| 05
+| oooo.  o| 39
+|    o.oo | 0W
+| o o .o  | 24
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o oo.oo | 2W
+|  o o.ooo| 1X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|    o.oo | 0W
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| oooo.  o| 39
+|   o .o o| 05
+|   o .oo | 06
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+| oo o.oo | 3W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o o.  o| 19
+| ooo .o o| 35
+|    o.oo | 0W
+|  oo .ooo| 17
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o  o.ooo| 2X
+|     . o | 02
+| o  o. o | 2S
+| oooo. o | 3S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .oo | 06
+|   o .o o| 05
+|    o.oo | 0W
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   oo.  o| 09
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .ooo| 17
+|    o.oo | 0W
+|  o o.ooo| 1X
+| oo  .ooo| 37
+|   oo. o | 0S
+| oo o. oo| 3T
+|  oo .  o| 11
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+| o oo.   | 28
+|  oo .ooo| 17
+|   o .o o| 05
+|  o  .   | 10
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o   .oo | 26
+|   o .o o| 05
+|    o.oo | 0W
+| o oo.   | 28
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| oooo.  o| 39
+|    o.oo | 0W
+|    o.oo | 0W
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|     .o  | 04
+|  o  .o o| 15
+| oo o.oo | 3W
+|   o .oo | 06
+| oooo.  o| 39
+| o oo.   | 28
+|   o .o o| 05
+| oooo.  o| 39
+|     .o  | 04
+|   o .oo | 06
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|    o.oo | 0W
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|  ooo.   | 18
+|  oo .ooo| 17
+|   oo. o | 0S
+|   o .o o| 05
+| ooo .o o| 35
+|    o.oo | 0W
+| oooo.  o| 39
+|  oo .ooo| 17
+|   o .o o| 05
+| oooo.  o| 39
+|     .o  | 04
+|   o .oo | 06
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|     .o  | 04
+| ooo .o o| 35
+| oo o.oo | 3W
+|   o .oo | 06
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   oo.  o| 09
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|  o  .o o| 15
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| oo o.oo | 3W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .ooo| 17
+|    o.   | 08
+| ooo .   | 30
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+| oo o.oo | 3W
+|  o o.  o| 19
+|    o.oo | 0W
+| o o .ooo| 27
+| o o .ooo| 27
+|   oo.  o| 09
+| ooo .oo | 36
+|   oo.ooo| 0X
+|    o.oo | 0W
+|  ooo.oo | 1W
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|    o.oo | 0W
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   oo.  o| 09
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|  ooo.   | 18
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.   | 08
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| o o .o  | 24
+|  oo .ooo| 17
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|  o  .o o| 15
+|  oo .ooo| 17
+|   oo.  o| 09
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .ooo| 17
+|   o .o o| 05
+| oo o.oo | 3W
+|  o  .oo | 16
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   oo.o  | 0U
+|  o o.ooo| 1X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|  o  .o o| 15
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  oo .ooo| 17
+| o o .o  | 24
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .oo | 06
+|   o .o o| 05
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oo  .  o| 31
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o  o.ooo| 2X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| oooo.  o| 39
+|    o.oo | 0W
+|    o.oo | 0W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| o   . oo| 23
+|    o.oo | 0W
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  o  .o o| 15
+| oo o.oo | 3W
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.  o| 09
+|    o.   | 08
+| ooo .   | 30
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o o. o | 1S
+|    o.   | 08
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| ooo .o o| 35
+|    o.oo | 0W
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+| oooo.ooo| 3X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|   o .oo | 06
+|  oo .ooo| 17
+| oooo.  o| 39
+|   o .o o| 05
+| oooo.  o| 39
+|   o .o o| 05
+|    o.oo | 0W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .oo | 06
+|   oo.  o| 09
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.   | 18
+|    o.oo | 0W
+| oo o. oo| 3T
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|  o  .o o| 15
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  oo .ooo| 17
+|  oo .ooo| 17
+|    o.oo | 0W
+| ooo .   | 30
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+| oooo.  o| 39
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.   | 08
+| o  o.ooo| 2X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| oooo.  o| 39
+|   o .o o| 05
+|    o.oo | 0W
+| oo o. oo| 3T
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oo o. oo| 3T
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .ooo| 17
+|   o .o o| 05
+| oooo.o  | 3U
+|  o  .   | 10
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+| oo o. oo| 3T
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  oo .ooo| 17
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.ooo| 1X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .oo | 06
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  oo .ooo| 17
+| o o .o  | 24
+|    o.oo | 0W
+| ooo .   | 30
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo o.oo | 3W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|  o  . oo| 13
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+| o o .o  | 24
+| o o .o  | 24
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+| oooo.  o| 39
+| oo  .  o| 31
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  oo .ooo| 17
+| oo  .  o| 31
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+| oo o. oo| 3T
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| ooo .o o| 35
+|    o.oo | 0W
+| o o .o  | 24
+| oo o. oo| 3T
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  oo .ooo| 17
+| o o .o  | 24
+|    o.oo | 0W
+| ooo .   | 30
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o oo.oo | 2W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oo o.   | 38
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   oo.  o| 09
+|    o.oo | 0W
+|  o o.ooo| 1X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|     .o  | 04
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.o  | 1U
+|   o .oo | 06
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo o.oo | 3W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  ooo.   | 18
+|   o .oo | 06
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   oo.  o| 09
+|   oo.o  | 0U
+|  o o.ooo| 1X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|  o  .o o| 15
+| oo o.oo | 3W
+|   o .oo | 06
+| o o .o  | 24
+| oooo.  o| 39
+|   o .o o| 05
+| o oo.oo | 2W
+|  o o.  o| 19
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .ooo| 17
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+|  oo .ooo| 17
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.  o| 09
+|   oo.  o| 09
+|   oo.ooo| 0X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   oo.ooo| 0X
+|   oo. o | 0S
+|   oo. o | 0S
+| oooo. o | 3S
+| oo  .ooo| 37
+|   oo. o | 0S
+|    o.oo | 0W
+|  o o.  o| 19
+|     . o | 02
+| oooo.  o| 39
+| o o .o  | 24
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|  o  .o o| 15
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.  o| 09
+|     .ooo| 07
+|  ooo.oo | 1W
+|   o .oo | 06
+| o oo.   | 28
+| o oo.   | 28
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o. o | 1S
+|     . o | 02
+| o o .o  | 24
+| o o .o  | 24
+|     .ooo| 07
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+|  oo .ooo| 17
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|   o .oo | 06
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o  o.ooo| 2X
+|     . o | 02
+| o  o. o | 2S
+| oooo. o | 3S
+|   o .oo | 06
+|    o.oo | 0W
+|  o  .o o| 15
+|   o .oo | 06
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  oo .ooo| 17
+| o   .o o| 25
+|     .ooo| 07
+|  ooo.oo | 1W
+|  o o.  o| 19
+|   oo. o | 0S
+|  ooo.o o| 1V
+| o o .o  | 24
+|   oo.  o| 09
+|   oo.  o| 09
+|   oo.  o| 09
+|     . o | 02
+| o   .oo | 26
+|  ooo.o o| 1V
+|   oo.  o| 09
+|   o .o o| 05
+| ooo .o o| 35
+|    o.oo | 0W
+|  ooo.   | 18
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| ooo .o o| 35
+|    o.oo | 0W
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| ooo .o o| 35
+| oooo.ooo| 3X
+|     . o | 02
+| o  o. o | 2S
+| oooo. o | 3S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+|  oo .ooo| 17
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  ooo.   | 18
+|  ooo.   | 18
+|   o .o o| 05
+| oooo.  o| 39
+|     .ooo| 07
+|   o .oo | 06
+| oooo.  o| 39
+| o o .o  | 24
+|     .ooo| 07
+|  o  .o o| 15
+| o   .o o| 25
+|    o.oo | 0W
+|  ooo.o o| 1V
+| oooo.  o| 39
+|   o .o o| 05
+| ooo .oo | 36
+|   o .oo | 06
+|     . o | 02
+| oooo.  o| 39
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| ooo .o o| 35
+|   o .oo | 06
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|  o  .o o| 15
+|  oo .ooo| 17
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .oo | 06
+|   o .o o| 05
+| oooo.  o| 39
+|     . o | 02
+| o o .o  | 24
+|  ooo.o o| 1V
+|   o .o o| 05
+| o   .o o| 25
+| ooo .oo | 36
+|     . o | 02
+|  ooo.   | 18
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+|  o  .o o| 15
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o   .o o| 25
+|    o.oo | 0W
+|  oo .ooo| 17
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  ooo.   | 18
+|   o .o o| 05
+| oooo.  o| 39
+|     .ooo| 07
+|   o .oo | 06
+|  o  .oo | 16
+|  oo .ooo| 17
+|   o .oo | 06
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  o o.  o| 19
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  ooo.   | 18
+|   o .o o| 05
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|    o.oo | 0W
+|  ooo.   | 18
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .oo | 06
+|   o .o o| 05
+| oooo.  o| 39
+|     . o | 02
+|  ooo.o o| 1V
+| oooo.  o| 39
+|   o .o o| 05
+| ooo .oo | 36
+|    o.oo | 0W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .ooo| 17
+|   o .o o| 05
+|  o o.ooo| 1X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|   o .oo | 06
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .oo | 16
+|   oo.  o| 09
+|     . o | 02
+|  ooo.o o| 1V
+| oo o. oo| 3T
+|   oo.  o| 09
+|   o .oo | 06
+|    o.oo | 0W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   oo.ooo| 0X
+|   oo. o | 0S
+|   oo. o | 0S
+| oooo. o | 3S
+|  oo .ooo| 17
+|   o .oo | 06
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .oo | 16
+|     . o | 02
+|  oo .ooo| 17
+| o o .o  | 24
+|   o .o o| 05
+| ooo .oo | 36
+|    o.oo | 0W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  o  .o o| 15
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  o  .o o| 15
+|    o.oo | 0W
+| oo o.   | 38
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  ooo.   | 18
+|   o .o o| 05
+| oooo.  o| 39
+|   o .o o| 05
+|    o.oo | 0W
+|  ooo.   | 18
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  o  .o o| 15
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     .o  | 04
+|   o .oo | 06
+|  oo .ooo| 17
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .oo | 06
+|   o .o o| 05
+| oooo.  o| 39
+|     . o | 02
+|  oo .ooo| 17
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  ooo.   | 18
+|   o .o o| 05
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|  o  .o o| 15
+|   o .o o| 05
+| ooo .oo | 36
+|    o.oo | 0W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .oo | 16
+|   o .o o| 05
+|    o.oo | 0W
+|  o  .oo | 16
+|  oo .ooo| 17
+|   o .oo | 06
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+|  o o.ooo| 1X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  o  .oo | 16
+|     . o | 02
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .oo | 06
+|    o.oo | 0W
+|  o  .oo | 16
+|     . o | 02
+|  ooo.   | 18
+| o o .o  | 24
+|   o .o o| 05
+| ooo .oo | 36
+|    o.oo | 0W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .oo | 16
+|    o.oo | 0W
+|   o .oo | 06
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|  o  .o o| 15
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  ooo.   | 18
+|  ooo.   | 18
+|   o .o o| 05
+| oooo.  o| 39
+|   o .o o| 05
+|    o.oo | 0W
+|  ooo.   | 18
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|   o .oo | 06
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+| oo o. oo| 3T
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .oo | 16
+|     . o | 02
+|  ooo.   | 18
+|  ooo.   | 18
+|   o .o o| 05
+| oooo.  o| 39
+|   o .o o| 05
+|    o.oo | 0W
+|  ooo.   | 18
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .oo | 16
+|   o .o o| 05
+|    o.oo | 0W
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|  o  .o o| 15
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .oo | 16
+|     . o | 02
+|  ooo.   | 18
+| oooo.  o| 39
+|   o .o o| 05
+| oooo.  o| 39
+|   o .o o| 05
+|    o.oo | 0W
+|  ooo.   | 18
+|  ooo.   | 18
+|   o .oo | 06
+|   o .o o| 05
+| ooo .o o| 35
+|   o .oo | 06
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  o  .oo | 16
+|    o.oo | 0W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .oo | 16
+|     . o | 02
+|  ooo.   | 18
+|  oo .ooo| 17
+|   o .oo | 06
+|    o.oo | 0W
+|  o o.  o| 19
+|     . o | 02
+|  oo .ooo| 17
+|  ooo.   | 18
+|   o .o o| 05
+| ooo .o o| 35
+|  o o.ooo| 1X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  o  .oo | 16
+|    o.oo | 0W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .oo | 16
+|     . o | 02
+|  ooo.   | 18
+|  oo .ooo| 17
+|   o .o o| 05
+| oooo.  o| 39
+|   o .o o| 05
+|    o.oo | 0W
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+| oo o. oo| 3T
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .oo | 06
+|   o .oo | 06
+|   o .o o| 05
+|    o.oo | 0W
+|  oo .ooo| 17
+|  o  .oo | 16
+|   oo.  o| 09
+|    o.oo | 0W
+|  o  .o o| 15
+|   o .oo | 06
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|   o .oo | 06
+|  oo .ooo| 17
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  ooo.   | 18
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| oooo.  o| 39
+|   o .oo | 06
+| o o .o  | 24
+| oooo.  o| 39
+|   o .o o| 05
+|  o o.ooo| 1X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  o  .o o| 15
+| ooo .oo | 36
+|     . o | 02
+|  ooo.   | 18
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .oo | 16
+|   o .o o| 05
+|    o.oo | 0W
+|  oo .ooo| 17
+| oooo.  o| 39
+|   o .o o| 05
+| o  o.  o| 29
+|    o.oo | 0W
+|   o .oo | 06
+| oo o. oo| 3T
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+| oooo.  o| 39
+|  oo .ooo| 17
+|   o .oo | 06
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  ooo.   | 18
+|   o .oo | 06
+|   oo. o | 0S
+|   oo.  o| 09
+|    o.oo | 0W
+| o o .o  | 24
+|  oo .ooo| 17
+|    o.oo | 0W
+|  o o.ooo| 1X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .oo | 16
+|     . o | 02
+|  oo .ooo| 17
+| oooo.  o| 39
+|   oo.  o| 09
+|    o.oo | 0W
+|  o  .o o| 15
+|    o.oo | 0W
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   oo.o  | 0U
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  ooo.   | 18
+|   o .oo | 06
+|    o.oo | 0W
+|  o o.  o| 19
+|     . o | 02
+| o o .o  | 24
+| oooo.  o| 39
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+| o   .o o| 25
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .oo | 16
+|   o .oo | 06
+|     . o | 02
+| oooo.  o| 39
+| oooo.  o| 39
+|   oo.  o| 09
+|   oo.  o| 09
+|   oo.ooo| 0X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   oo.o  | 0U
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  ooo.   | 18
+|  ooo.   | 18
+|    o.oo | 0W
+|  o o.  o| 19
+|   oo.  o| 09
+|   o .oo | 06
+|  oo .ooo| 17
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  ooo.   | 18
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|     . o | 02
+| o   .o o| 25
+|  oo .ooo| 17
+|    o.oo | 0W
+|  o o.ooo| 1X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+| oo o. oo| 3T
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .oo | 06
+|    o.oo | 0W
+|  o  .oo | 16
+|     . o | 02
+| oooo.  o| 39
+| o o .o  | 24
+|   o .o o| 05
+| oooo.  o| 39
+|  ooo.oo | 1W
+|    o.oo | 0W
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  ooo.   | 18
+|  ooo.   | 18
+|    o.oo | 0W
+|  o o.  o| 19
+|   oo.  o| 09
+|     . o | 02
+|  oo .ooo| 17
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  ooo.   | 18
+|  ooo.   | 18
+|   o .oo | 06
+|    o.oo | 0W
+|  o o.  o| 19
+|     . o | 02
+| o o .o  | 24
+|  o  .o o| 15
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .oo | 16
+|     . o | 02
+| oooo.  o| 39
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+| o o .o  | 24
+| o o .o  | 24
+|   o .o o| 05
+|  o o.ooo| 1X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  ooo.   | 18
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oo  .  o| 31
+| o o .o  | 24
+|   oo.  o| 09
+|     .o  | 04
+|  o o.ooo| 1X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  ooo.   | 18
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .oo | 16
+|     . o | 02
+| oooo.  o| 39
+| o o .o  | 24
+|   oo.  o| 09
+|   o .o o| 05
+|  o o.ooo| 1X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oo  .  o| 31
+| o o .o  | 24
+|   oo.  o| 09
+|   o .o o| 05
+|  o o.ooo| 1X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+| oo o. oo| 3T
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o. o | 1S
+|     . o | 02
+| o o .o  | 24
+| o o .o  | 24
+|   oo.  o| 09
+|   oo.ooo| 0X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+| oo o. oo| 3T
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o o.o  | 1U
+|  o o.  o| 19
+|     . o | 02
+| o o .o  | 24
+|  o  .o o| 15
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| o oo.   | 28
+|   oo.  o| 09
+|   oo.  o| 09
+|   oo.  o| 09
+|     . o | 02
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.o  | 1U
+|   o .oo | 06
+| o o .o  | 24
+| o o .o  | 24
+|    o.oo | 0W
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   oo.  o| 09
+|   oo.  o| 09
+|   oo.  o| 09
+|     . o | 02
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo o.oo | 3W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|     . o | 02
+| o o .o  | 24
+|  o  .o o| 15
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oo  .  o| 31
+| o o .o  | 24
+|   oo.  o| 09
+|    o.oo | 0W
+|  o o.ooo| 1X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|  oo .  o| 11
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  ooo.   | 18
+|   oo.  o| 09
+|   o .o o| 05
+| ooo .o o| 35
+|    o.oo | 0W
+|  ooo.   | 18
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.o  | 1U
+|   o .oo | 06
+|  oo .ooo| 17
+|  ooo.   | 18
+|    o.oo | 0W
+|  o o.ooo| 1X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo  .o  | 34
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o. o | 1S
+|     . o | 02
+| o o .o  | 24
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oo o. oo| 3T
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+| oo o. oo| 3T
+|  oo .  o| 11
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o o. o | 1S
+|  o  .o o| 15
+|    o.oo | 0W
+|  ooo.   | 18
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.ooo| 1X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo  .o  | 34
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oo  .  o| 31
+| oooo.  o| 39
+|   oo.  o| 09
+|   o .o o| 05
+| oo o.oo | 3W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+| oo  .  o| 31
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| ooo .o o| 35
+|  o  .   | 10
+|     . o | 02
+| oo o. oo| 3T
+| o o .o  | 24
+|   o .oo | 06
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|    o.oo | 0W
+| oo o. oo| 3T
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+| oooo.  o| 39
+|  oo .ooo| 17
+|     .o  | 04
+|  o  .   | 10
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+| oo o. oo| 3T
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.   | 18
+| oo o. oo| 3T
+|    o.oo | 0W
+| oo o.oo | 3W
+| oooo.ooo| 3X
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|    o.oo | 0W
+| oo o. oo| 3T
+| oo o. oo| 3T
+|    o.oo | 0W
+| ooo .oo | 36
+|   oo.  o| 09
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+|  o  .   | 10
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo o.oo | 3W
+| oo o.oo | 3W
+|    o.oo | 0W
+| oo o. oo| 3T
+|  oo .  o| 11
+|     .o  | 04
+|  oo .o  | 14
+|  oo .o  | 14
+|   o .oo | 06
+| oo o. oo| 3T
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+| oo o. oo| 3T
+|     .o  | 04
+|  oo .o  | 14
+|  oo .o  | 14
+|   o .oo | 06
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o oo.oo | 2W
+| oo o.oo | 3W
+|    o.oo | 0W
+| oo o. oo| 3T
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo o.oo | 3W
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.   | 18
+| oo o.o o| 3V
+|     . o | 02
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+| oo o. oo| 3T
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+|  oo .  o| 11
+| oo o. oo| 3T
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oooo.ooo| 3X
+|     . o | 02
+| o  o. o | 2S
+| oooo. o | 3S
+|    o.oo | 0W
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|    o.oo | 0W
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o  o.o  | 2U
+|  o  .o o| 15
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.ooo| 3X
+|     .ooo| 07
+| o  o.ooo| 2X
+| oooo.ooo| 3X
+|    o.oo | 0W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.o o| 0V
+|   o .   | 00
+|     .o  | 04
+|  ooo.   | 18
+|   o .   | 00
+|    o.oo | 0W
+| o   . oo| 23
+|     . o | 02
+|   o .   | 00
+|  ooo.   | 18
+|   o .   | 00
+|     .o  | 04
+| ooo .   | 30
+|   o .   | 00
+|   o .o o| 05
+| oo o.   | 38
+|   o .   | 00
+|   o . oo| 03
+|  ooo.   | 18
+|   o .   | 00
+|   oo.o  | 0U
+| oooo.o  | 3U
+|   o .   | 00
+|   o . oo| 03
+| ooo .   | 30
+|   o .   | 00
+|   o .o o| 05
+| o oo.   | 28
+| o o .ooo| 27
+|   oo.ooo| 0X
+|   oo.o  | 0U
+| oooo.o  | 3U
+|     .  o| 01
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|oo o .   | S0
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o. o | 0S

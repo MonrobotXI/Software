@@ -1,0 +1,6783 @@
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|ooo o.ooo| TX
+# Found Start Code at 22
+|   o .   | 00
+|     .ooo| 07
+# Start Address 007
+| oo  .o  | 34
+|     .  o| 01
+|   o .   | 00
+| o  o.o  | 2U
+|   o .   | 00
+|   o .   | 00
+007: V010T000 D12&  
+| oo  .o  | 34
+|     .  o| 01
+|     .  o| 01
+| o  o.o  | 2U
+|   o .   | 00
+|     .  o| 01
+008: V011T001 D16& |
+| oo  .o  | 34
+|   o .   | 00
+|   oo.ooo| 0X
+| o  o.o  | 2U
+|   o .   | 00
+|   o . oo| 03
+009: V00XT003 D <&  
+| oo  .o  | 34
+|     .  o| 01
+|     . o | 02
+| o  o.o  | 2U
+|   o .   | 00
+|     .o  | 04
+00S: V012T004 D1~&1 
+| oo  .  o| 31
+|  o  .   | 10
+|   o .   | 00
+|   oo.o  | 0U
+| oooo.o  | 3U
+|   o .   | 00
+00T: U50033U0 A0 C& 
+| o oo.   | 28
+| oo o.   | 38
+|   o .   | 00
+| ooo .   | 30
+|   o .   | 00
+|   o .o o| 05
+00U: S380U005 QH3 1|
+|   oo.o  | 0U
+| oooo.o  | 3U
+|     .  o| 01
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+00V: 33U10000 @uc4   
+|   o .   | 00
+|   oo.ooo| 0X
+|   oo.ooo| 0X
+|   oo.o  | 0U
+|   o .   | 00
+|     .ooo| 07
+00W: 00XX3007  ~uc&1 
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o . oo| 03
+|   oo.ooo| 0X
+00X: 0000003X     ~ 
+| o   .o o| 25
+|   o .   | 00
+|     .  o| 01
+| oooo.o  | 3U
+|   o .   | 00
+|     .  o| 01
+010: 9401X001 N 7& |
+| o  o.o  | 2U
+|   o .   | 00
+|     .  o| 01
+| oo  .o  | 34
+|     .  o| 01
+|   oo.o  | 0U
+011: T001V01U * 707 
+| o oo.   | 28
+|   o .   | 00
+|   o .   | 00
+|   oo.o  | 0U
+|   o .   | 00
+|   o .   | 00
+012: S0003000 Q  &  
+| o  o.o  | 2U
+|   o .   | 00
+|     .  o| 01
+| oo o.   | 38
+|   o .   | 00
+|     .o  | 04
+013: T001W004 * 7-1 
+|  o o.o  | 1U
+|   o .   | 00
+|     .  o| 01
+|   oo.o  | 0U
+|     .  o| 01
+|   o .o o| 05
+014: 70013015 % 4&5|
+|   o .   | 00
+|   oo.ooo| 0X
+|   oo.ooo| 0X
+|   oo.o  | 0U
+|     .  o| 01
+|   oo.  o| 09
+015: 00XX3019  ~uc&6|
+| o oo.   | 28
+|   o .   | 00
+|   o .   | 00
+| oo  .o  | 34
+|     .  o| 01
+|   oo.o  | 0U
+016: S000V01U Q 307 
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     .  o| 01
+017: 00000001      |
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o . oo| 03
+|   oo.ooo| 0X
+018: 0000003X     ~ 
+| oo  .o  | 34
+|     .  o| 01
+|    o. oo| 0T
+| o  o.o  | 2U
+|   o .   | 00
+|     .o  | 04
+019: V01TT004 D1;&1 
+|   oo.o  | 0U
+|   o .   | 00
+|     .ooo| 07
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+01S: 30070000 @ %   
+| o oo.   | 28
+|   o .   | 00
+|   o .   | 00
+| oo  .o  | 34
+| oo o. oo| 3T
+|   oo.ooo| 0X
+01T: S000V3TX Q 3T~ 
+| oooo.ooo| 3X
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+01U: XXX78002 crcrtb  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+01V: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+01W: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+01X: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+020: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| ooo .   | 30
+|     . o | 02
+021: 00003T02    . }
+| oo o. oo| 3T
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o o .o  | 24
+|   o .oo | 06
+022: WXUSTS46 .uc!lc/}
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o oo.oo | 2W
+| oooo.ooo| 3X
+|    o.oo | 0W
+023: X2SWTTXW uc!lc.cr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+024: 78000002 tb    }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+025: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+026: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+027: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oooo.ooo| 3X
+|     . o | 02
+028: 00003TX2    .uc}
+| o  o. o | 2S
+| oooo. o | 3S
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+029: STS5V75W !lcXXX}
+| o o .o  | 24
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+02S: 9175V75W MXXXX}
+|  oo .  o| 11
+| oo o. oo| 3T
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+02T: 47TXVW02 /.crtb }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+02U: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+02V: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+02W: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+02X: 00000002      }
+|  oo .  o| 11
+|  oo .  o| 11
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+030: 4515V75W //XXX}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+031: 5V75V75W XXXXX}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   o .o o| 05
+| oo o.oo | 3W
+| oooo.ooo| 3X
+|    o.oo | 0W
+032: 5V75XTXW XXX.cr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+033: 78000002 tb    }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+034: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+035: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+036: 00000002      }
+|   o .   | 00
+|  oo .  o| 11
+|     .o  | 04
+|  oo .o  | 14
+| ooo .o o| 35
+|    o.oo | 0W
+037: 0114535W  //TX}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+038: 5V75V75W XXXXX}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+039: 5V75V75W XXXXX}
+|  oo .ooo| 17
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o oo.oo | 2W
+|    o.oo | 0W
+03S: 5XUSTSWW Xuc!lc.}
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+03T: XVW00002 crtb   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+03U: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+03V: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+03W: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|    o.   | 08
+|  o  .o o| 15
+| ooo .o o| 35
+|    o.oo | 0W
+03X: 0008575W   JXX}
+|  oo .ooo| 17
+| o o .o  | 24
+|   oo.  o| 09
+|   oo.  o| 09
+|    o.   | 08
+|    o.oo | 0W
+040: 5W49248W XMMML}
+| o o .o  | 24
+|  oo .ooo| 17
+|   o .o o| 05
+| oooo.  o| 39
+|   oo.  o| 09
+|     . o | 02
+041: 9175W492 MXXMM}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|    o.oo | 0W
+|  o o.ooo| 1X
+|   oo. o | 0S
+|   oo. o | 0S
+042: 5V7W7USS XXIuc!}
+| oooo. o | 3S
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+043: WTX78002 lccrtb  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+044: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+045: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+046: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+047: 000WV75W   .XX}
+| o   . oo| 23
+|  oo .ooo| 17
+|   oo.  o| 09
+|   oo.  o| 09
+| ooo .o o| 35
+|    o.oo | 0W
+048: 8V79275W LXMPX}
+|  oo .ooo| 17
+|  ooo.o o| 1V
+|   o .   | 00
+|  o  .o o| 15
+| ooo .o o| 35
+|    o.oo | 0W
+049: 5VV0575W Xbs1XX}
+| o o .o  | 24
+|  oo .ooo| 17
+|   oo.  o| 09
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+04S: 9179V75W MXPXX}
+|  oo .ooo| 17
+| o o .ooo| 27
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+04T: 5W7XVW02 XPcrtb }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+04U: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+04V: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+04W: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| ooo .o o| 35
+|    o.oo | 0W
+04X: 00003T5W    .X}
+|  oo .ooo| 17
+| o o .ooo| 27
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+050: 5W75V75W XPXXX}
+|  oo .ooo| 17
+| o o .o  | 24
+|    o.oo | 0W
+|  o o.  o| 19
+| oooo.  o| 39
+|     . o | 02
+051: 5W4W6792 XMIPM}
+| o o .o  | 24
+|  oo .ooo| 17
+|   o .o o| 05
+| o   .o o| 25
+| ooo .o o| 35
+|    o.oo | 0W
+052: 9175975W MXWXX}
+|  oo .ooo| 17
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+053: 5XX78002 Xcrtb  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+054: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+055: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+056: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+| ooo .o o| 35
+|    o.oo | 0W
+057: 0000175W    XX}
+| o o .ooo| 27
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+058: 9X9W795W PIIIX}
+| o o .o  | 24
+| o o .ooo| 27
+|   o .oo | 06
+|   o .o o| 05
+| oooo.  o| 39
+|     . o | 02
+059: 92761792 MPYXM}
+| o o .o  | 24
+| o o .o  | 24
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+05S: 9245V75W MMXXX}
+|  oo .ooo| 17
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+05T: 5XX78002 Xcrtb  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+05U: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+05V: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+05W: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+| ooo .o o| 35
+|    o.oo | 0W
+05X: 0000175W    XX}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+| oooo.  o| 39
+|     . o | 02
+060: W79W7T92 III.M}
+| o o .o  | 24
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| ooo .o o| 35
+|    o.oo | 0W
+061: 939W575W MIIXX}
+| o o .o  | 24
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+062: 9175V75W MXXXX}
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+063: XVW00002 crtb   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+064: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+065: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+066: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+067: 0005X9W6   XII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   oo.  o| 09
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+068: W799X9W6 IIPII}
+| o   . oo| 23
+| o o .ooo| 27
+|   oo.  o| 09
+| oooo.  o| 39
+| oo o.oo | 3W
+|   o .oo | 06
+069: 8W79W7W6 LPPPI}
+| oooo.  o| 39
+|  oo .ooo| 17
+|     .o  | 04
+|  ooo.oo | 1W
+| oooo.ooo| 3X
+|    o.oo | 0W
+06S: W5747TXW IX/.cr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+06T: 78000002 tb    }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+06U: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+06V: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+06W: 00000002      }
+|   o .   | 00
+|  ooo.   | 18
+|    o.oo | 0W
+|  o o.  o| 19
+| oo  .ooo| 37
+|   o .oo | 06
+06X: 018W6776  YIPbs}
+| oo o. oo| 3T
+| o o .ooo| 27
+|     .ooo| 07
+|  ooo.oo | 1W
+| oooo.  o| 39
+|    o.oo | 0W
+070: WW777T9W .Pbs.P}
+|  ooo.o o| 1V
+| oo o. oo| 3T
+|     .o  | 04
+|  ooo.oo | 1W
+|  ooo.   | 18
+|    o.oo | 0W
+071: 77T4798W bs./IL}
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o o .o  | 24
+|  oo .ooo| 17
+|   o .oo | 06
+072: X2SW9176 uc!lc/bs}
+| oo o. oo| 3T
+| o o .ooo| 27
+|     .ooo| 07
+|  ooo.oo | 1W
+| oooo.  o| 39
+|    o.oo | 0W
+073: WW777T9W .Pbs.P}
+|  ooo.o o| 1V
+| oo o. oo| 3T
+|    o.oo | 0W
+|  oo .ooo| 17
+|  ooo.oo | 1W
+|    o.oo | 0W
+074: 77TW5VWW bs.Ibs.}
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.  o| 09
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+075: W579XX7S IXPcrtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+076: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+077: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+078: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+079: 00000002      }
+|  ooo.   | 18
+| oooo.  o| 39
+|   o .oo | 06
+|   oo.  o| 09
+| oo  .ooo| 37
+|   o .oo | 06
+07S: 63962776 YIYPbs}
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o  o.  o| 29
+| oo o.oo | 3W
+|   o .oo | 06
+07T: X2SWS7W6 uc!lcPI}
+| ooo .oo | 36
+| o  o.  o| 29
+|   oo.  o| 09
+| oooo.  o| 39
+| oo  .ooo| 37
+|   o .oo | 06
+07U: VS99W776 FRPPbs}
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o  o.  o| 29
+| ooo .oo | 36
+|     . o | 02
+07V: X2SWS762 uc!lcPY}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| oo  .o  | 34
+|  o o.ooo| 1X
+|    o.oo | 0W
+07W: W795V1XW IIX/cr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+07X: 78000002 tb    }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+080: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+081: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+082: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .oo | 06
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+083: 000639W6   YII}
+| oooo.  o| 39
+|  oo .  o| 11
+|     .o  | 04
+|  o  .o o| 15
+| oo  .o  | 34
+|   o .oo | 06
+084: W5145746 I//X/}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .oo | 16
+|   oo.  o| 09
+|    o.oo | 0W
+085: W79W589W IIIYP}
+| o o .o  | 24
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+086: 93X78002 Mcrtb  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+087: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+088: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+089: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|   o .oo | 06
+08S: 000000W6     I}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .oo | 06
+|   oo.  o| 09
+| oo  .ooo| 37
+|   o .oo | 06
+08T: W7962776 IIYPbs}
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o  o.  o| 29
+| oooo.  o| 39
+|    o.oo | 0W
+08U: X2SWS79W uc!lcPP}
+|  ooo.o o| 1V
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o   .o o| 25
+|   o .oo | 06
+08V: 77USTS56 bsuc!lcV}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  oo .o  | 14
+|  o o.  o| 19
+|    o.oo | 0W
+08W: W79W519W III/P}
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+08X: XVW00002 crtb   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+090: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+091: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+092: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+093: 000039W6    II}
+| oooo.  o| 39
+| o   . oo| 23
+|     .ooo| 07
+|  ooo.oo | 1W
+| oooo.ooo| 3X
+|     . o | 02
+094: W6377TX2 ILbs.uc}
+| o  o. o | 2S
+| oooo. o | 3S
+|     .ooo| 07
+|  ooo.oo | 1W
+| oooo.ooo| 3X
+|     . o | 02
+095: STS77TX2 !lcbs.uc}
+| o  o. o | 2S
+| oooo. o | 3S
+|     .ooo| 07
+|  ooo.oo | 1W
+| oooo.ooo| 3X
+|     . o | 02
+096: STS77TX2 !lcbs.uc}
+| o  o. o | 2S
+| oooo. o | 3S
+|     .ooo| 07
+|  ooo.oo | 1W
+| oo o.oo | 3W
+|   o .oo | 06
+097: STS77TW6 !lcbs.I}
+|  ooo.o o| 1V
+| oo o. oo| 3T
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+098: 77TW79W6 bs.III}
+| o o .ooo| 27
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+099: 9XX78002 Pcrtb  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+09S: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+09T: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+09U: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+09V: 00000002      }
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| oo  .ooo| 37
+|   o .oo | 06
+09W: W79W5776 IIIXbs}
+| ooo .   | 30
+| o o .ooo| 27
+|     .ooo| 07
+|  o o.ooo| 1X
+|   oo. o | 0S
+|   oo. o | 0S
+09X: U2777USS &Pbsuc!}
+| oooo. o | 3S
+| o o .ooo| 27
+|     .ooo| 07
+|  o o.ooo| 1X
+|   oo. o | 0S
+|   oo. o | 0S
+0S0: WS777USS lcPbsuc!}
+| oooo. o | 3S
+| o o .ooo| 27
+|   o .oo | 06
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+0S1: WS7639W6 lcPYII}
+| o o .ooo| 27
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+0S2: 9XX78002 Pcrtb  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+0S3: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+0S4: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+0S5: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+0S6: 00000002      }
+| o o .ooo| 27
+| o o . o | 22
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+0S7: 9W2W79W6 PKIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.   | 08
+| ooo .o o| 35
+| oooo.ooo| 3X
+|    o.oo | 0W
+0S8: W798V7XW IILXcr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+0S9: 78000002 tb    }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+0SS: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+0ST: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+0SU: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+0SV: 000X2SWS   uc!lc}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .oo | 06
+|   oo.  o| 09
+| oooo.  o| 39
+|    o.oo | 0W
+0SW: W796279W IIYPP}
+| o o .ooo| 27
+|  ooo.   | 18
+|   oo.  o| 09
+|   o .o o| 05
+|  o o.ooo| 1X
+|    o.oo | 0W
+0SX: 9V8915XW PYMVcr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+0T0: 78000002 tb    }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+0T1: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+0T2: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oooo.ooo| 3X
+|   oo. o | 0S
+|   oo. o | 0S
+0T3: 000WXUSS   .uc!}
+| oooo. o | 3S
+|  oo .  o| 11
+|     .o  | 04
+|  o  .o o| 15
+| oo o.oo | 3W
+|   o .oo | 06
+0T4: W91457W6 lc//XI}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+0T5: W79W79W6 IIIII}
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.  o| 09
+|   oo.ooo| 0X
+| oo  .ooo| 37
+|   oo. o | 0S
+0T6: W5793X7S IXMcrtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+0T7: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oooo.ooo| 3X
+|     . o | 02
+0T8: 00003TX2    .uc}
+| o  o. o | 2S
+| oooo. o | 3S
+|     .o  | 04
+|  oo .o  | 14
+|  o  .o o| 15
+|    o.oo | 0W
+0T9: STS4515W !lc//X}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   o .oo | 06
+|   o .oo | 06
+|   oo.  o| 09
+|    o.oo | 0W
+0TS: 5V76189W XXYYP}
+| o o . o | 22
+| o o . o | 22
+|    o.   | 08
+| oo o.   | 38
+| oo o.oo | 3W
+|   o .oo | 06
+0TT: 8S28W3W6 KKLLI}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+0TU: W79W79W6 IIIII}
+| oooo.  o| 39
+|  o  .o o| 15
+|   oo.  o| 09
+|   oo.ooo| 0X
+| oo  .ooo| 37
+|   oo. o | 0S
+0TV: W5593X7S IVMcrtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+0TW: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|     .o  | 04
+|  o  .o o| 15
+| oo o.oo | 3W
+|   o .oo | 06
+0TX: 000457W6   /XI}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+0U0: W795V75W IIXXX}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|    o.oo | 0W
+0U1: W79W799W IIIIP}
+| o o .ooo| 27
+| o o .ooo| 27
+|   oo.  o| 09
+| oo o.   | 38
+| o oo.   | 28
+|    o.oo | 0W
+0U2: 9W79W28W PPPKL}
+| o o .o  | 24
+| o   . oo| 23
+|    o.   | 08
+| ooo .o o| 35
+| oooo.  o| 39
+|     . o | 02
+0U3: 9238V792 MLLXM}
+| o oo.   | 28
+| oo o. oo| 3T
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+0U4: S3TXVW02 Q.crtb }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+0U5: 00000002      }
+| oo o. oo| 3T
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+0U6: WV7W79W6 .XIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| ooo .o o| 35
+| oo o.oo | 3W
+|   o .oo | 06
+0U7: W795V7W6 IIXXI}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+0U8: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|    o.oo | 0W
+0U9: W79W799W IIIIP}
+|  ooo.   | 18
+| o o .ooo| 27
+|   oo.  o| 09
+| oooo.  o| 39
+| oooo.  o| 39
+|     . o | 02
+0US: 6279W792 YPPPM}
+| o o .o  | 24
+| o oo.   | 28
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+0UT: 928X2SWS MQuc!lc}
+|  ooo.o o| 1V
+| oo o. oo| 3T
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+0UU: 77TX2SWS bs.uc!lc}
+|  ooo.o o| 1V
+| oo o. oo| 3T
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+0UV: 77TX2SWS bs.uc!lc}
+|  ooo.o o| 1V
+| oo o. oo| 3T
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+0UW: 77TX2SWS bs.uc!lc}
+|  ooo.o o| 1V
+| oo o. oo| 3T
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+0UX: 77TX2SWS bs.uc!lc}
+|  ooo.o o| 1V
+| oo o. oo| 3T
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+0V0: 77TX2SWS bs.uc!lc}
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o o .o  | 24
+|  o o.  o| 19
+|     . o | 02
+0V1: X2SW9192 uc!lc/M}
+|  oo .  o| 11
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o  o.ooo| 2X
+|     . o | 02
+0V2: 47USTSX2 /uc!lcuc}
+| o  o. o | 2S
+| oooo. o | 3S
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+0V3: STSX2SWS !lcuc!lc}
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o  o.ooo| 2X
+|   oo. o | 0S
+|   oo. o | 0S
+0V4: X2SWTUSS uc!lcuc!}
+| oooo. o | 3S
+| oo o. oo| 3T
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+0V5: WTTXVW02 lc.crtb }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+0V6: 00000002      }
+|  oo .  o| 11
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+0V7: 479W79W6 /IIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+0V8: W79W79W6 IIIII}
+| oooo.  o| 39
+|  oo .ooo| 17
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+0V9: W575X9W6 IXXII}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+0VS: 5V7W79W6 XXIII}
+|  oo .ooo| 17
+| o o .o  | 24
+|   oo.  o| 09
+|   o .o o| 05
+| ooo .o o| 35
+|    o.oo | 0W
+0VT: 5W49175W XMMXX}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   oo.  o| 09
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+0VU: 5V79W79W XXPPP}
+| o o .ooo| 27
+|  oo .ooo| 17
+|   oo.  o| 09
+| oooo. o | 3S
+|   oo.ooo| 0X
+|     . o | 02
+0VV: 9V79W8X2 PXPQuc}
+| o  o. o | 2S
+| oooo. o | 3S
+|   o .o o| 05
+| oooo.ooo| 3X
+|   oo. o | 0S
+|   oo. o | 0S
+0VW: STS5XUSS !lcXuc!}
+| oooo. o | 3S
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| oooo. o | 3S
+|     . o | 02
+0VX: W975V7S2 lcXXXQ}
+|  oo .ooo| 17
+| o o .o  | 24
+|     .o  | 04
+|  o o.ooo| 1X
+| oo  .ooo| 37
+|   oo. o | 0S
+0W0: 5W447X7S XM/crtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+0W1: 00000002      }
+|  oo .  o| 11
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+0W2: 479W79W6 /IIII}
+| oooo.  o| 39
+| o   . oo| 23
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+0W3: W63W79W6 ILIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| oo o.oo | 3W
+|   o .oo | 06
+0W4: W79W57W6 IIIXI}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+0W5: W795X9W6 IIXII}
+| oooo.  o| 39
+| o o .ooo| 27
+|   oo.  o| 09
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+0W6: W679W79W IPPPP}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| oooo. o | 3S
+|     . o | 02
+0W7: 5V75V7S2 XXXXQ}
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o  o.  o| 29
+|   oo.  o| 09
+|     . o | 02
+0W8: X2SWS492 uc!lcMM}
+| o o .ooo| 27
+| o o .ooo| 27
+|   o .o o| 05
+| oooo.  o| 39
+|    o.oo | 0W
+|   o .oo | 06
+0W9: 9W75W4W6 PPXMI}
+| o oo.   | 28
+|  oo .ooo| 17
+|   oo.  o| 09
+| ooo .o o| 35
+|  o  .o o| 15
+|    o.oo | 0W
+0WS: S179V55W QXPVX}
+| oooo.  o| 39
+| o o .o  | 24
+|    o.oo | 0W
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+0WT: W64WXX7S IM.crtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|    o.oo | 0W
+0WU: 000000WW     .}
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+0WV: 5X9W79W6 XIIII}
+|  oo .ooo| 17
+| o o .o  | 24
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+0WW: 5W4W79W6 XMIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+0WX: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+0X0: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   oo.  o| 09
+| oooo.  o| 39
+| ooo .o o| 35
+|    o.oo | 0W
+0X1: W799W75W IIPPX}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| oo o.oo | 3W
+|   o .oo | 06
+0X2: 5V75V7W6 XXXXI}
+| o o .ooo| 27
+| o o .ooo| 27
+|   oo. o | 0S
+|   o .o o| 05
+| oooo.  o| 39
+|     . o | 02
+0X3: 9W7S1792 PPQXM}
+| o o .o  | 24
+|  oo .ooo| 17
+|   o .o o| 05
+|  o  .   | 10
+|   o .   | 00
+|     . o | 02
+0X4: 91754002 MXV  }
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+0X5: 0005795W   VIX}
+| o o .o  | 24
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+0X6: 93X78002 Mcrtb  }
+|   o .   | 00
+|   o .   | 00
+|     .o  | 04
+|  o  .o o| 15
+| oo o.oo | 3W
+|   o .oo | 06
+0X7: 000457W6   /XI}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| oooo.  o| 39
+|     . o | 02
+0X8: W79W5792 IIIXM}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+0X9: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+0XS: W79W795W IIIIX}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+0XT: 5V75X9W6 XXXII}
+| oooo.  o| 39
+| o oo.   | 28
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+0XU: W685V75W IQXXX}
+| o o .o  | 24
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+0XV: 917W795W MXIIX}
+| o o .ooo| 27
+| o o .ooo| 27
+|    o.oo | 0W
+|  o o.  o| 19
+|   oo.  o| 09
+|    o.oo | 0W
+0XW: 9W7W649W PPIMP}
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+0XX: X2SW8002 uc!lc  }
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+100: 0005795W   VIX}
+| o o .o  | 24
+| oo o. oo| 3T
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+101: 93TXVW02 M.crtb }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+| ooo .o o| 35
+|    o.oo | 0W
+102: 0000175W    XX}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+103: W795V75W IIXXX}
+| o o .o  | 24
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o. o | 1S
+|     . o | 02
+104: 939W79S2 MIIIQ}
+| o o . o | 22
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o oo.oo | 2W
+|   o .oo | 06
+105: 8TUSTSW6 Kuc!lcI}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+106: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+107: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| ooo .o o| 35
+|    o.oo | 0W
+108: W79W575W IIIXX}
+| oooo.  o| 39
+| oooo.  o| 39
+|   oo.  o| 09
+|   o .o o| 05
+| ooo .o o| 35
+|    o.oo | 0W
+109: W799175W IIMXX}
+|  oo .ooo| 17
+| o o .o  | 24
+|   oo.  o| 09
+| oo o.oo | 3W
+|  o  .o o| 15
+|   o .oo | 06
+10S: 5W49X956 XMPIV}
+| oo o. oo| 3T
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|   o .oo | 06
+10T: WU000056 .   V}
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.  o| 09
+|   oo.  o| 09
+|   oo.ooo| 0X
+|    o.oo | 0W
+10U: W57924XW IXMMcr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|    o.oo | 0W
+10V: 780000WW tb   .}
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+10W: 5X9W79W6 XIIII}
+|  oo .ooo| 17
+| o o .o  | 24
+|   oo.  o| 09
+|   o .o o| 05
+| oo o.oo | 3W
+|   o .oo | 06
+10X: 5W4917W6 XMMXI}
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.  o| 09
+| o o .ooo| 27
+|  o o.  o| 19
+|     . o | 02
+110: W5799V92 IXObsM}
+| o o .o  | 24
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+111: 939W79W6 MIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+112: W79W795W IIIIX}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+113: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|    o.oo | 0W
+114: W79W799W IIIIP}
+|  oo .ooo| 17
+| o o .o  | 24
+|   oo.  o| 09
+|   o .o o| 05
+| ooo .o o| 35
+|    o.oo | 0W
+115: 5W49175W XMMXX}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| oooo.ooo| 3X
+|     . o | 02
+116: W79W57X2 IIIXuc}
+| o  o. o | 2S
+| oooo. o | 3S
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|   o .oo | 06
+117: STS00056 !lc  V}
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.  o| 09
+|   oo.  o| 09
+|   oo.ooo| 0X
+|    o.oo | 0W
+118: W57924XW IXMMcr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     .o  | 04
+|   o .oo | 06
+119: 78000046 tb   /}
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+11S: 5X9W795W XIIIX}
+| o o .o  | 24
+| oo  .  o| 31
+|   oo.  o| 09
+|   o .o o| 05
+| oo o.oo | 3W
+|   o .oo | 06
+11T: 931917W6 MAMXI}
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.  o| 09
+|   oo.  o| 09
+|   o .oo | 06
+|     . o | 02
+11U: W5792462 IXMMY}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+11V: W79W795W IIIIX}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+11W: 5V7W79W6 XXIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+11X: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   oo. o | 0S
+|   oo.  o| 09
+|   oo.  o| 09
+|     . o | 02
+120: W79S2492 IIQMM}
+| o o .o  | 24
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| oo o.oo | 3W
+|   o .oo | 06
+121: 9175V7W6 MXXXI}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| oooo.ooo| 3X
+|     . o | 02
+122: W79W57X2 IIIXuc}
+| o  o. o | 2S
+| oooo. o | 3S
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+123: STSX2SWS !lcuc!lc}
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+124: 5X9W795W XIIIX}
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|    o.oo | 0W
+125: XVW000WW crtb  .}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+126: W79W79W6 IIIII}
+|  oo .ooo| 17
+| o o .o  | 24
+|   o .   | 00
+|   o .o o| 05
+|  o o.  o| 19
+|     . o | 02
+127: 5W401592 XM VM}
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|    o.oo | 0W
+128: 5X9W799W XIIIP}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o. o | 1S
+|     . o | 02
+129: W79W79S2 IIIIQ}
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o   .o o| 25
+| oooo.  o| 39
+|     . o | 02
+12S: X2SW9792 uc!lcXM}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o o. o | 1S
+|    o.oo | 0W
+|   o .oo | 06
+12T: W79W68W6 IIIQI}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+12U: W79W795W IIIIX}
+| o   .oo | 26
+|  ooo.o o| 1V
+|   oo.  o| 09
+|   oo.  o| 09
+|    o.oo | 0W
+|   o .oo | 06
+12V: 99V924W6 ObsMMI}
+| o o .o  | 24
+|  oo .ooo| 17
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+12W: 9175X9W6 MXXII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o o.  o| 19
+| o   .o o| 25
+|    o.oo | 0W
+12X: W79W665W IIIOX}
+| o o .o  | 24
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+130: 917W79W6 MXIII}
+| o o .ooo| 27
+|  oo .ooo| 17
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+131: 9V7XVW02 PXcrtb }
+|   o .   | 00
+|  oo .  o| 11
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+132: 0115X9W6  /XII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   oo.  o| 09
+|     .o  | 04
+|  o  .   | 10
+|     . o | 02
+133: W7991102 IIM/ }
+|  o  .o o| 15
+| o o .o  | 24
+|   oo. o | 0S
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+134: 564S39W6 VMQII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o o. o | 1S
+|   oo. o | 0S
+|     . o | 02
+135: W79W68S2 IIIQQ}
+|  oo .ooo| 17
+| o o .o  | 24
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+136: 5W4W79W6 XMIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| oo o.   | 38
+|    o.oo | 0W
+137: W79W578W IIIXL}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|    o.oo | 0W
+138: W79W799W IIIIP}
+| o o .o  | 24
+| o o .o  | 24
+|   o .o o| 05
+| ooo .o o| 35
+|  o  .o o| 15
+|    o.oo | 0W
+139: 9245V55W MMXVX}
+| oooo.  o| 39
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+13S: W57W79W6 IXIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| oooo.  o| 39
+| oooo.  o| 39
+|     . o | 02
+13T: W795W792 IIXPM}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| oooo.  o| 39
+|     . o | 02
+13U: W79W5792 IIIXM}
+| oo o. oo| 3T
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+13V: WXX78002 .crtb  }
+|  oo .  o| 11
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+13W: 457W79W6 /XIII}
+|  oo .ooo| 17
+|  o  .o o| 15
+|   o .   | 00
+|   o .   | 00
+|   oo.ooo| 0X
+|     . o | 02
+13X: 5V5000X2 XV  uc}
+| o  o. o | 2S
+| oooo. o | 3S
+|   oo.  o| 09
+|   oo.  o| 09
+|   oo.  o| 09
+|    o.oo | 0W
+140: STS9249W !lcMMP}
+| o o .ooo| 27
+| o o .ooo| 27
+|   oo.  o| 09
+| oooo.  o| 39
+| ooo .oo | 36
+|     . o | 02
+141: 9W79W762 PPPPY}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+142: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|    o.oo | 0W
+143: W79W799W IIIIP}
+|  oo .ooo| 17
+| o oo.   | 28
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+144: 5W8W79W6 XQIII}
+| oooo.  o| 39
+|  o  .o o| 15
+|    o.oo | 0W
+| ooo .   | 30
+|   o .   | 00
+|     . o | 02
+145: W55WU002 IV.  }
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+146: 5X9W79W6 XIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .oo | 06
+|   o .o o| 05
+| oooo.  o| 39
+|    o.oo | 0W
+147: W796179W IIYXP}
+| o o .o  | 24
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+148: 939W795W MIIIX}
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o oo.oo | 2W
+|  o o.ooo| 1X
+|    o.oo | 0W
+149: X2SWT9XW uc!lcIcr}
+|  ooo.oo | 1W
+|   o .   | 00
+|    o.oo | 0W
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+14S: 780WX9W6 tb .II}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| oooo.  o| 39
+|   o .o o| 05
+|   o .oo | 06
+14T: W795W456 IIXMV}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+| oo o.oo | 3W
+|   o .oo | 06
+14U: 000017W6    XI}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+14V: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+14W: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+14X: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o o.  o| 19
+| ooo .o o| 35
+|    o.oo | 0W
+150: W79W675W IIIPX}
+|  oo .ooo| 17
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o  o.ooo| 2X
+|     . o | 02
+151: 5XUSTSX2 Xuc!lcuc}
+| o  o. o | 2S
+| oooo. o | 3S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+152: STS00002 !lc   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .oo | 06
+|   o .o o| 05
+|    o.oo | 0W
+153: 0000185W    YX}
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+154: 5X9W79W6 XIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   oo.  o| 09
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+155: W79939W6 IIMII}
+| oooo.  o| 39
+|  oo .ooo| 17
+|    o.oo | 0W
+|  o o.ooo| 1X
+| oo  .ooo| 37
+|   oo. o | 0S
+156: W57W7X7S IXIcrtb}
+| oo o. oo| 3T
+|  oo .  o| 11
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+157: WV15X9W6 ./XII}
+| o oo.   | 28
+|  oo .ooo| 17
+|   o .o o| 05
+|  o  .   | 10
+|   o .   | 00
+|     . o | 02
+158: S1754002 QXV  }
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+159: 000579W6   VII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+15S: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+15T: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+15U: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+15V: W795V75W IIXXX}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+15W: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+15X: 00000002      }
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o   .oo | 26
+|   o .o o| 05
+|    o.oo | 0W
+160: X2SW985W uc!lcYX}
+| o oo.   | 28
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+161: S39W79W6 QIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| oooo.  o| 39
+|    o.oo | 0W
+|    o.oo | 0W
+162: W795W4WW IIXM.}
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|     .o  | 04
+|  o  .o o| 15
+| oo o.oo | 3W
+|   o .oo | 06
+163: XVW457W6 crtb/XI}
+| oooo.  o| 39
+| o oo.   | 28
+|   o .o o| 05
+| oooo.  o| 39
+|     .o  | 04
+|   o .oo | 06
+164: W685W446 IQXM/}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+165: 00000002      }
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+166: 5X9W79W6 XIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+167: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+168: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|    o.oo | 0W
+169: W79W799W IIIIP}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+16S: 5V700002 XX   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+16T: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+16U: 00000002      }
+|  ooo.   | 18
+|  oo .ooo| 17
+|   oo. o | 0S
+|   o .o o| 05
+| ooo .o o| 35
+|    o.oo | 0W
+16V: 617S175W YXQXX}
+| oooo.  o| 39
+|  oo .ooo| 17
+|   o .o o| 05
+| oooo.  o| 39
+|     .o  | 04
+|   o .oo | 06
+16W: W575W446 IXXM/}
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|     .o  | 04
+| ooo .o o| 35
+| oo o.oo | 3W
+|   o .oo | 06
+16X: XVW4V7W6 crtbTXI}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   oo.  o| 09
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+170: 5V790002 XXM  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+171: 00000002      }
+|  o  .o o| 15
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+172: 557W79W6 VXIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+173: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| oo o.oo | 3W
+|   o .oo | 06
+174: W79W57W6 IIIXI}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+175: W79W79W6 IIIII}
+| oooo.  o| 39
+|  oo .ooo| 17
+|    o.   | 08
+| ooo .   | 30
+|   o .   | 00
+|     . o | 02
+176: W578U002 IXL  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+177: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+178: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+| oo o.oo | 3W
+|  o o.  o| 19
+|    o.oo | 0W
+179: 0005X99W   XIP}
+| o o .ooo| 27
+| o o .ooo| 27
+|   oo.  o| 09
+| ooo .oo | 36
+|   oo.ooo| 0X
+|    o.oo | 0W
+17S: 9W79V8XW PPPYcr}
+|  ooo.oo | 1W
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|    o.oo | 0W
+17T: 7T9W799W tbIIIP}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   oo.  o| 09
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+17U: 5V790002 XXM  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+17V: 00000002      }
+|  ooo.   | 18
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+17W: 639W79W6 YIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+17X: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+180: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+181: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.   | 08
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+182: W798XX7S IILcrtb}
+|   o .   | 00
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+183: 017W79W6  XIII}
+| o o .o  | 24
+|  oo .ooo| 17
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+184: 91700002 MX   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+185: 00000002      }
+|  o  .o o| 15
+|  oo .ooo| 17
+|   oo.  o| 09
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+186: 5579X9W6 VXPII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+187: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+188: W79W79W6 IIIII}
+| oooo.  o| 39
+|  oo .ooo| 17
+|   o .o o| 05
+| oo o.oo | 3W
+|  o  .oo | 16
+|   o .oo | 06
+189: W575X966 IXXIZ}
+| oooo.  o| 39
+| oooo.  o| 39
+|   oo.o  | 0U
+|  o o.ooo| 1X
+| oo  .ooo| 37
+|   oo. o | 0S
+18S: W79U7X7S IIAcrtb}
+|   o .   | 00
+|  o  .o o| 15
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+18T: 015W79W6  VIII}
+|  oo .ooo| 17
+| o o .o  | 24
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+18U: 5W4X2SWS XMuc!lc}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+18V: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .oo | 06
+|   o .o o| 05
+|    o.oo | 0W
+18W: 0000185W    YX}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+18X: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+190: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+191: W79W795W IIIIX}
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+192: 5X9W79W6 XIIII}
+| oo  .  o| 31
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o  o.ooo| 2X
+|    o.oo | 0W
+193: U7USTSXW Auc!lccr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  ooo.oo | 1W
+|   o .oo | 06
+194: 780015W6 tb  VI}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| oooo.  o| 39
+|    o.oo | 0W
+|    o.oo | 0W
+195: W795W4WW IIXM.}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+196: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+197: 000579W6   VII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+198: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+199: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| ooo .o o| 35
+| ooo .o o| 35
+|    o.oo | 0W
+19S: W795V75W IIXXX}
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+19T: 5X9W79W6 XIIII}
+| oooo.  o| 39
+| o   . oo| 23
+|    o.oo | 0W
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+19U: W63WXX7S IL.crtb}
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  o  .o o| 15
+| oo o.oo | 3W
+|   o .oo | 06
+19V: 000557W6   VXI}
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.  o| 09
+|    o.   | 08
+| ooo .   | 30
+|     . o | 02
+19W: W5792302 IXML }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+19X: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1S0: 000579W6   VII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1S1: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o o. o | 1S
+|    o.   | 08
+|    o.oo | 0W
+1S2: W79W688W IIIQL}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| ooo .o o| 35
+|    o.oo | 0W
+1S3: W79W575W IIIXX}
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1S4: 5X9W79W6 XIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+| oooo.ooo| 3X
+|    o.oo | 0W
+1S5: W79W7TXW III.cr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|   o .oo | 06
+1S6: 78000056 tb   V}
+|  oo .ooo| 17
+| oooo.  o| 39
+|   o .o o| 05
+| oooo.  o| 39
+|   o .o o| 05
+|    o.oo | 0W
+1S7: 5X95W45W XIXMX}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+1S8: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .oo | 06
+|   oo.  o| 09
+|    o.oo | 0W
+1S9: 0000189W    YP}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1SS: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|    o.oo | 0W
+1ST: W79W799W IIIIP}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1SU: W79W79W6 IIIII}
+| oooo.  o| 39
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1SV: W57W79W6 IXIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.   | 18
+|    o.oo | 0W
+1SW: W79W798W IIIIL}
+| oo o. oo| 3T
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+1SX: WXX78002 .crtb  }
+|   o .   | 00
+|  o  .o o| 15
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+1T0: 0155X9W6  VXII}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|    o.oo | 0W
+| ooo .   | 30
+|   o .   | 00
+|     . o | 02
+1T1: 5V7WU002 XX.  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+1T2: 00000002      }
+| oooo.  o| 39
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1T3: W57W79W6 IXIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1T4: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1T5: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+1T6: W79W795W IIIIX}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1T7: W79W79W6 IIIII}
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.   | 08
+| o  o.ooo| 2X
+| oo  .ooo| 37
+|   oo. o | 0S
+1T8: 5X98TX7S XIKcrtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|   o .oo | 06
+1T9: 00000056     V}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| oooo.  o| 39
+|   o .o o| 05
+|    o.oo | 0W
+1TS: W795W45W IIXMX}
+| oo o. oo| 3T
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+1TT: WU000002 .    }
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+1TU: 000WX9W6   .II}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1TV: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1TW: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1TX: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1U0: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1U1: W79W79W6 IIIII}
+| oo o. oo| 3T
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+1U2: WXX78002 .crtb  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  ooo.oo | 1W
+|   o .oo | 06
+1U3: 000015W6    VI}
+| oooo.  o| 39
+|  oo .ooo| 17
+|   o .o o| 05
+| oooo.o  | 3U
+|  o  .   | 10
+|     . o | 02
+1U4: W575X102 IXXA }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+1U5: 00000002      }
+| oo o. oo| 3T
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1U6: WX9W79W6 .IIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1U7: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1U8: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1U9: W79W79W6 IIIII}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1US: 5V7W79W6 XXIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.ooo| 1X
+|    o.oo | 0W
+1UT: W79W79XW IIIIcr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+1UU: 78000002 tb    }
+|   o .   | 00
+|   o .   | 00
+|   o .oo | 06
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+1UV: 000639W6   YII}
+|  oo .ooo| 17
+| o o .o  | 24
+|    o.oo | 0W
+| ooo .   | 30
+|   o .   | 00
+|     . o | 02
+1UW: 5W4WU002 XM.  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo o.oo | 3W
+|   o .oo | 06
+1UX: 00003TW6    .I}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1V0: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1V1: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1V2: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+1V3: W79W795W IIIIX}
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1V4: 5X9W79W6 XIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+1V5: W79WXX7S II.crtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+1V6: 00000002      }
+|   o .   | 00
+|  o  . oo| 13
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+1V7: 013W795W  TIIX}
+| o o .o  | 24
+| o o .o  | 24
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+1V8: 92400002 MM   }
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+1V9: 000WX9W6   .II}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1VS: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1VT: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1VU: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+1VV: W79W795W IIIIX}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+1VW: W79W795W IIIIX}
+| oooo.  o| 39
+| oo  .  o| 31
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+1VX: W71XVW02 IAcrtb }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+1W0: 00000002      }
+|   o .   | 00
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1W1: 017W79W6  XIII}
+|  oo .ooo| 17
+| oo  .  o| 31
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+1W2: 5X100002 XA   }
+|   o .   | 00
+| oo o. oo| 3T
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1W3: 03TW79W6  .III}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1W4: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1W5: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1W6: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1W7: W79W79W6 IIIII}
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| ooo .o o| 35
+|    o.oo | 0W
+1W8: 5X9W575W XIIXX}
+| o o .o  | 24
+| oo o. oo| 3T
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+1W9: 93TXVW02 M.crtb }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+1WS: 00000002      }
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1WT: W79W79W6 IIIII}
+|  oo .ooo| 17
+| o o .o  | 24
+|    o.oo | 0W
+| ooo .   | 30
+|   o .   | 00
+|     . o | 02
+1WU: 5W4WU002 XM.  }
+|   o .   | 00
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o oo.oo | 2W
+|   o .oo | 06
+1WV: 03USTSW6  uc!lcI}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1WW: W79W79W6 IIIII}
+| oo o.   | 38
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1WX: W39W79W6 HIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1X0: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1X1: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+1X2: W795X9W6 IIXII}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   oo.  o| 09
+|    o.oo | 0W
+|  o o.ooo| 1X
+|    o.oo | 0W
+1X3: 5V7939XW XXMIcr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+1X4: 78000002 tb    }
+|   o .   | 00
+|   o .   | 00
+|     .o  | 04
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1X5: 000479W6   /II}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.o  | 1U
+|   o .oo | 06
+1X6: W79W79U6 IIIIA}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo o.oo | 3W
+|   o .oo | 06
+1X7: 00003TW6    .I}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1X8: W79W79W6 IIIII}
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1X9: 5X9W79W6 XIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1XS: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+1XT: W79W79W6 IIIII}
+| oooo.  o| 39
+|  ooo.   | 18
+|   o .oo | 06
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+1XU: W58639W6 IYYII}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   oo.  o| 09
+|   oo.o  | 0U
+|  o o.ooo| 1X
+|    o.oo | 0W
+1XV: 5V7931XW XXMAcr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+1XW: 78000002 tb    }
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|  o  .o o| 15
+| oo o.oo | 3W
+|   o .oo | 06
+1XX: 000W57W6   IXI}
+| o o .o  | 24
+| oooo.  o| 39
+|   o .o o| 05
+| o oo.oo | 2W
+|  o o.  o| 19
+|     . o | 02
+200: 9395T992 MIWIM}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|    o.oo | 0W
+201: 0000005W     X}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+202: W79W79W6 IIIII}
+| oooo.  o| 39
+|  oo .ooo| 17
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+203: W575X9W6 IXXII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+204: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+205: W79W795W IIIIX}
+|  oo .ooo| 17
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+206: 5V8W79W6 XYIII}
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.  o| 09
+|   oo.  o| 09
+|   oo.ooo| 0X
+|    o.oo | 0W
+207: W57924XW IXMMcr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+208: 78000002 tb    }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   oo.ooo| 0X
+|   oo. o | 0S
+|   oo. o | 0S
+209: 00003USS    uc!}
+| oooo. o | 3S
+| oo  .ooo| 37
+|   oo. o | 0S
+|    o.oo | 0W
+|  o o.  o| 19
+|     . o | 02
+20S: WT7S3992 lcGQIM}
+| oooo.  o| 39
+| o o .o  | 24
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+20T: W6400002 IM   }
+|   o .   | 00
+|  o  .o o| 15
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+20U: 0155X9W6  VXII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+20V: W79W79W6 IIIII}
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.  o| 09
+|     .ooo| 07
+|  ooo.oo | 1W
+|   o .oo | 06
+20W: W5791VW6 IXMbsI}
+| o oo.   | 28
+| o oo.   | 28
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o. o | 1S
+|     . o | 02
+20X: S28W79S2 QQIIQ}
+| o o .o  | 24
+| o o .o  | 24
+|     .ooo| 07
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+210: 9247795W MMbsIX}
+|  oo .ooo| 17
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+211: 5V8W79W6 XYIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|   o .oo | 06
+212: W79W7956 IIIIV}
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+213: XVW00002 crtb   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+214: 00000002      }
+|   o .   | 00
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o  o.ooo| 2X
+|     . o | 02
+215: 03USTSX2  uc!lcuc}
+| o  o. o | 2S
+| oooo. o | 3S
+|   o .oo | 06
+|    o.oo | 0W
+|  o  .o o| 15
+|   o .oo | 06
+216: STS63956 !lcYIV}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|   o .oo | 06
+217: 000000W6     I}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+218: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+219: W79W79W6 IIIII}
+|  oo .ooo| 17
+| o   .o o| 25
+|     .ooo| 07
+|  ooo.oo | 1W
+|  o o.  o| 19
+|   oo. o | 0S
+21S: 5W57799S XNbsIO}
+|  ooo.o o| 1V
+| o o .o  | 24
+|   oo.  o| 09
+|   oo.  o| 09
+|   oo.  o| 09
+|     . o | 02
+21T: 76492492 bsMMMM}
+| o   .oo | 26
+|  ooo.o o| 1V
+|   oo.  o| 09
+|   o .o o| 05
+| ooo .o o| 35
+|    o.oo | 0W
+21U: 99V9175W ObsMXX}
+|  ooo.   | 18
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+21V: 618W79W6 YYIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| ooo .o o| 35
+|    o.oo | 0W
+21W: W79W575W IIIXX}
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+21X: XVW00002 crtb   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+220: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| ooo .o o| 35
+| oooo.ooo| 3X
+|     . o | 02
+221: 000WV7X2   .Xuc}
+| o  o. o | 2S
+| oooo. o | 3S
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+222: STS00002 !lc   }
+|   o .   | 00
+|   o .   | 00
+|   oo.ooo| 0X
+|   oo. o | 0S
+| o oo.oo | 2W
+|   oo. o | 0S
+223: 000X2SWS   uc!lc}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+224: 5V7W79W6 XXIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+225: W79W79W6 IIIII}
+|  ooo.   | 18
+|  ooo.   | 18
+|   o .o o| 05
+| oooo.  o| 39
+|     .ooo| 07
+|   o .oo | 06
+226: 6185W476 YYXMbs}
+| oooo.  o| 39
+| o o .o  | 24
+|     .ooo| 07
+|  o  .o o| 15
+| o   .o o| 25
+|    o.oo | 0W
+227: W647565W IMbsWX}
+|  ooo.o o| 1V
+| oooo.  o| 39
+|   o .o o| 05
+| ooo .oo | 36
+|   o .oo | 06
+|     . o | 02
+228: 7795V862 bsIXYY}
+| oooo.  o| 39
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+229: W58W79W6 IYIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+| ooo .o o| 35
+|   o .oo | 06
+22S: W79W5756 IIIXV}
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+22T: XVW00002 crtb   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+22U: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+22V: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+22W: 00000002      }
+|  o  .o o| 15
+|  oo .ooo| 17
+|   o .o o| 05
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+22X: 5575X9W6 VXXII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+230: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .oo | 06
+|   o .o o| 05
+| oooo.  o| 39
+|     . o | 02
+231: W7961792 IIYXM}
+| o o .o  | 24
+|  ooo.o o| 1V
+|   o .o o| 05
+| o   .o o| 25
+| ooo .oo | 36
+|     . o | 02
+232: 91V59762 MbsWXY}
+|  ooo.   | 18
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+233: 639W79W6 YIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+234: W79W795W IIIIX}
+|  o  .o o| 15
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+235: 57X78002 Vcrtb  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+236: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+237: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+238: 00000002      }
+|   o .   | 00
+| oooo.o  | 3U
+|   oo. o | 0S
+| o oo.oo | 2W
+| o   .o o| 25
+|    o.oo | 0W
+239: 03USTS5W  uc!lcX}
+|  oo .ooo| 17
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+23S: 5V8W79W6 XYIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+23T: W79W79W6 IIIII}
+| oooo.  o| 39
+|  ooo.   | 18
+|   o .o o| 05
+| oooo.  o| 39
+|     .ooo| 07
+|   o .oo | 06
+23U: W585W476 IYXMbs}
+|  o  .oo | 16
+|  oo .ooo| 17
+|   o .oo | 06
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+23V: 597639W6 WXYII}
+|  o o.  o| 19
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+23W: 679W79W6 ZIIII}
+| oooo.  o| 39
+|  ooo.   | 18
+|   o .o o| 05
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+23X: W585XX7S IYXcrtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+240: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+241: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+242: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|    o.oo | 0W
+243: 0000005W     X}
+|  ooo.   | 18
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+244: 618W79W6 YYIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+245: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .oo | 06
+|   o .o o| 05
+| oooo.  o| 39
+|     . o | 02
+246: W7961792 IIYXM}
+|  ooo.o o| 1V
+| oooo.  o| 39
+|   o .o o| 05
+| ooo .oo | 36
+|    o.oo | 0W
+|   o .oo | 06
+247: 7795V8W6 bsIXYI}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+248: W79W79W6 IIIII}
+| oooo.  o| 39
+|  oo .ooo| 17
+|   o .o o| 05
+|  o o.ooo| 1X
+| oo  .ooo| 37
+|   oo. o | 0S
+249: W5757X7S IXVcrtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+24S: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+24T: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+24U: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|   o .oo | 06
+24V: 00000056     V}
+|  oo .ooo| 17
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+24W: 5X9W79W6 XIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+24X: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .oo | 16
+|   oo.  o| 09
+|     . o | 02
+250: W79W5892 IIIYM}
+|  ooo.o o| 1V
+| oo o. oo| 3T
+|   oo.  o| 09
+|   o .oo | 06
+|    o.oo | 0W
+|   o .oo | 06
+251: 77T918W6 bs.MYI}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+252: W79W79W6 IIIII}
+| oooo.  o| 39
+|  oo .ooo| 17
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+253: W57XVW02 IXcrtb }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+254: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+255: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+256: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   oo.ooo| 0X
+|   oo. o | 0S
+|   oo. o | 0S
+257: 00003USS    uc!}
+| oooo. o | 3S
+|  oo .ooo| 17
+|   o .oo | 06
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+258: W97639W6 lcXYII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+259: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .oo | 16
+|     . o | 02
+25S: W79W7962 IIIIY}
+|  oo .ooo| 17
+| o o .o  | 24
+|   o .o o| 05
+| ooo .oo | 36
+|    o.oo | 0W
+|   o .oo | 06
+25T: 5W45V8W6 XMXYI}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+25U: W79W79W6 IIIII}
+|  o  .o o| 15
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+25V: 57X78002 Vcrtb  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+25W: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+25X: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+260: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  o  .o o| 15
+|    o.oo | 0W
+261: 0000155W    VX}
+| oo o.   | 38
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+262: W39W79W6 HIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+263: W79W79W6 IIIII}
+| oooo.  o| 39
+|  ooo.   | 18
+|   o .o o| 05
+| oooo.  o| 39
+|   o .o o| 05
+|    o.oo | 0W
+264: W585W45W IYXMX}
+|  ooo.   | 18
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+265: 639W79W6 YIIII}
+| oooo.  o| 39
+|  o  .o o| 15
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+266: W55XVW02 IVcrtb }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+267: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+268: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+269: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     .o  | 04
+|   o .oo | 06
+26S: 00000046     /}
+|  oo .ooo| 17
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+26T: 5V8W79W6 XYIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+26U: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .oo | 06
+|   o .o o| 05
+| oooo.  o| 39
+|     . o | 02
+26V: W7961792 IIYXM}
+|  oo .ooo| 17
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+26W: 5V8W79W6 XYIII}
+| oooo.  o| 39
+|  ooo.   | 18
+|   o .o o| 05
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+26X: W585XX7S IYXcrtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+270: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+271: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+272: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+273: 00000002      }
+|   o .   | 00
+|  o  .o o| 15
+|   o .o o| 05
+| ooo .oo | 36
+|    o.oo | 0W
+|   o .oo | 06
+274: 0155V8W6  VXYI}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+275: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .oo | 16
+|   o .o o| 05
+|    o.oo | 0W
+276: W79W585W IIIYX}
+|  o  .oo | 16
+|  oo .ooo| 17
+|   o .oo | 06
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+277: 597639W6 WXYII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .o o| 15
+|  o o.ooo| 1X
+|    o.oo | 0W
+278: W79W55XW IIIVcr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+279: 78000002 tb    }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+27S: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+27T: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+27U: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  o  .oo | 16
+|     . o | 02
+27V: 00001562    VY}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+27W: W79W79W6 IIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .oo | 06
+|    o.oo | 0W
+|  o  .oo | 16
+|     . o | 02
+27X: W7963962 IIYIY}
+|  ooo.   | 18
+| o o .o  | 24
+|   o .o o| 05
+| ooo .oo | 36
+|    o.oo | 0W
+|   o .oo | 06
+280: 6245V8W6 YMXYI}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .oo | 16
+|    o.oo | 0W
+|   o .oo | 06
+281: W79W58W6 IIIYI}
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+282: XVW00002 crtb   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+283: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+284: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+285: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+286: 00000002      }
+|  o  .o o| 15
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+287: 579W79W6 VIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+288: W79W79W6 IIIII}
+|  ooo.   | 18
+|  ooo.   | 18
+|   o .o o| 05
+| oooo.  o| 39
+|   o .o o| 05
+|    o.oo | 0W
+289: 6185W45W YYXMX}
+|  ooo.   | 18
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|   o .oo | 06
+28S: 639W7956 YIIIV}
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+28T: XVW00002 crtb   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+28U: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+28V: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+28W: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+28X: 00000002      }
+| oo o. oo| 3T
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+290: WV8W79W6 .YIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .oo | 16
+|     . o | 02
+291: W79W7962 IIIIY}
+|  ooo.   | 18
+|  ooo.   | 18
+|   o .o o| 05
+| oooo.  o| 39
+|   o .o o| 05
+|    o.oo | 0W
+292: 6185W45W YYXMX}
+|  ooo.   | 18
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .oo | 16
+|   o .o o| 05
+|    o.oo | 0W
+293: 639W585W YIIYX}
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+294: XVW00002 crtb   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+295: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+296: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+297: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+298: 00000002      }
+|   o .   | 00
+|  o  .o o| 15
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+299: 015W79W6  VIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .oo | 16
+|     . o | 02
+29S: W79W7962 IIIIY}
+|  ooo.   | 18
+| oooo.  o| 39
+|   o .o o| 05
+| oooo.  o| 39
+|   o .o o| 05
+|    o.oo | 0W
+29T: 6395W45W YIXMX}
+|  ooo.   | 18
+|  ooo.   | 18
+|   o .oo | 06
+|   o .o o| 05
+| ooo .o o| 35
+|   o .oo | 06
+29U: 61861756 YYYXV}
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+29V: XVW00002 crtb   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+29W: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+29X: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2S0: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2S1: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  o  .oo | 16
+|    o.oo | 0W
+|   o .oo | 06
+2S2: 000558W6   VYI}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .oo | 16
+|     . o | 02
+2S3: W79W7962 IIIIY}
+|  ooo.   | 18
+|  oo .ooo| 17
+|   o .oo | 06
+|    o.oo | 0W
+|  o o.  o| 19
+|     . o | 02
+2S4: 61763992 YXYIM}
+|  oo .ooo| 17
+|  ooo.   | 18
+|   o .o o| 05
+| ooo .o o| 35
+|  o o.ooo| 1X
+|    o.oo | 0W
+2S5: 5V85V5XW XYXVcr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2S6: 78000002 tb    }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2S7: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2S8: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2S9: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2SS: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  o  .oo | 16
+|    o.oo | 0W
+|   o .oo | 06
+2ST: 000558W6   VYI}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .oo | 16
+|     . o | 02
+2SU: W79W7962 IIIIY}
+|  ooo.   | 18
+|  oo .ooo| 17
+|   o .o o| 05
+| oooo.  o| 39
+|   o .o o| 05
+|    o.oo | 0W
+2SV: 6175W45W YXXMX}
+|  oo .ooo| 17
+|  oo .ooo| 17
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+2SW: 5V7XVW02 XXcrtb }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2SX: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2T0: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2T1: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2T2: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2T3: 00000002      }
+| oo o. oo| 3T
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+2T4: WV7W79W6 .XIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .oo | 06
+|   o .oo | 06
+|   o .o o| 05
+|    o.oo | 0W
+2T5: W796185W IIYYX}
+|  oo .ooo| 17
+|  o  .oo | 16
+|   oo.  o| 09
+|    o.oo | 0W
+|  o  .o o| 15
+|   o .oo | 06
+2T6: 5V693956 XWMIV}
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2T7: XVW00002 crtb   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2T8: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2T9: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2TS: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2TT: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|   o .oo | 06
+2TU: 00000056     V}
+|  oo .ooo| 17
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+2TV: 5V8W79W6 XYIII}
+|  ooo.   | 18
+|  oo .ooo| 17
+|   o .o o| 05
+| ooo .o o| 35
+| oooo.  o| 39
+|   o .oo | 06
+2TW: 6175V796 YXXXN}
+| o o .o  | 24
+| oooo.  o| 39
+|   o .o o| 05
+|  o o.ooo| 1X
+| oo  .ooo| 37
+|   oo. o | 0S
+2TX: 93957X7S MIVcrtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2U0: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2U1: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2U2: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2U3: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2U4: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|  o  .o o| 15
+| ooo .oo | 36
+|     . o | 02
+2U5: 00055762   VXY}
+|  ooo.   | 18
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .oo | 16
+|   o .o o| 05
+|    o.oo | 0W
+2U6: 639W585W YIIYX}
+|  oo .ooo| 17
+| oooo.  o| 39
+|   o .o o| 05
+| o  o.  o| 29
+|    o.oo | 0W
+|   o .oo | 06
+2U7: 5X95S4W6 XIWMI}
+| oo o. oo| 3T
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+2U8: WXX78002 .crtb  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2U9: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2US: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2UT: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2UU: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2UV: 00000002      }
+| oooo.  o| 39
+|  oo .ooo| 17
+|   o .oo | 06
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+2UW: W57639W6 IXYII}
+| oooo.  o| 39
+|  ooo.   | 18
+|   o .oo | 06
+|   oo. o | 0S
+|   oo.  o| 09
+|    o.oo | 0W
+2UX: W586289W IYYQP}
+| o o .o  | 24
+|  oo .ooo| 17
+|    o.oo | 0W
+|  o o.ooo| 1X
+| oo  .ooo| 37
+|   oo. o | 0S
+2V0: 917W7X7S MXIcrtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2V1: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2V2: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2V3: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2V4: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2V5: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo o.oo | 3W
+|  ooo.oo | 1W
+|   o .oo | 06
+2V6: 000WX9W6   .II}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .oo | 16
+|     . o | 02
+2V7: W79W7962 IIIIY}
+|  oo .ooo| 17
+| oooo.  o| 39
+|   oo.  o| 09
+|    o.oo | 0W
+|  o  .o o| 15
+|    o.oo | 0W
+2V8: 5X99395W XIMIX}
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2V9: XVW00002 crtb   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2VS: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2VT: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2VU: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2VV: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   oo.o  | 0U
+|   o .oo | 06
+2VW: 000000U6     A}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+2VX: W79W79W6 IIIII}
+| oooo.  o| 39
+|  ooo.   | 18
+|   o .oo | 06
+|    o.oo | 0W
+|  o o.  o| 19
+|     . o | 02
+2W0: W5863992 IYYIM}
+| o o .o  | 24
+| oooo.  o| 39
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+2W1: 939XVW02 MIcrtb }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2W2: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2W3: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2W4: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2W5: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2W6: 00000002      }
+|   o .   | 00
+| o   .o o| 25
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+2W7: 025W79W6  NIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o  .oo | 16
+|   o .oo | 06
+|     . o | 02
+2W8: W79W5862 IIIYY}
+| oooo.  o| 39
+| oooo.  o| 39
+|   oo.  o| 09
+|   oo.  o| 09
+|   oo.ooo| 0X
+|    o.oo | 0W
+2W9: W79924XW IIMMcr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2WS: 78000002 tb    }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2WT: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2WU: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2WV: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2WW: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   oo.o  | 0U
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+2WX: 000U79W6   AII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+2X0: W79W79W6 IIIII}
+|  ooo.   | 18
+|  ooo.   | 18
+|    o.oo | 0W
+|  o o.  o| 19
+|   oo.  o| 09
+|   o .oo | 06
+2X1: 618W6496 YYIMN}
+|  oo .ooo| 17
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+2X2: 5XX78002 Xcrtb  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2X3: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2X4: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2X5: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2X6: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .o o| 05
+|    o.oo | 0W
+2X7: 0000005W     X}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+2X8: W79W79W6 IIIII}
+|  ooo.   | 18
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|     . o | 02
+2X9: 618W7992 YYIIM}
+| o   .o o| 25
+|  oo .ooo| 17
+|    o.oo | 0W
+|  o o.ooo| 1X
+| oo  .ooo| 37
+|   oo. o | 0S
+2XS: 957W7X7S NXIcrtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2XT: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2XU: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2XV: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2XW: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+2XX: 00000002      }
+| oo o. oo| 3T
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+300: WX9W79W6 .IIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .oo | 06
+|    o.oo | 0W
+|  o  .oo | 16
+|     . o | 02
+301: W7963962 IIYIY}
+| oooo.  o| 39
+| o o .o  | 24
+|   o .o o| 05
+| oooo.  o| 39
+|  ooo.oo | 1W
+|    o.oo | 0W
+302: W645W5WW IMXN.}
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+303: XVW00002 crtb   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+304: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+305: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+306: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+307: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+308: 000W79W6   III}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+309: W79W79W6 IIIII}
+|  ooo.   | 18
+|  ooo.   | 18
+|    o.oo | 0W
+|  o o.  o| 19
+|   oo.  o| 09
+|     . o | 02
+30S: 618W6492 YYIMM}
+|  oo .ooo| 17
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+30T: 5XX78002 Xcrtb  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+30U: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+30V: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+30W: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+30X: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+310: 000039W6    II}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+311: W79W79W6 IIIII}
+|  ooo.   | 18
+|  ooo.   | 18
+|   o .oo | 06
+|    o.oo | 0W
+|  o o.  o| 19
+|     . o | 02
+312: 61863992 YYYIM}
+| o o .o  | 24
+|  o  .o o| 15
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+313: 915XVW02 MVcrtb }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+314: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+315: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+316: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+317: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|   o .oo | 06
+318: 000000W6     I}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .oo | 16
+|     . o | 02
+319: W79W7962 IIIIY}
+| oooo.  o| 39
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .o o| 15
+|    o.oo | 0W
+31S: W58W795W IYIIX}
+| o o .o  | 24
+| o o .o  | 24
+|   o .o o| 05
+|  o o.ooo| 1X
+| oo  .ooo| 37
+|   oo. o | 0S
+31T: 92457X7S MMVcrtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+31U: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+31V: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+31W: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+31X: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+320: 00000002      }
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+321: W79W79W6 IIIII}
+|  ooo.   | 18
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+322: 639W79W6 YIIII}
+| oo  .  o| 31
+| o o .o  | 24
+|   oo.  o| 09
+|     .o  | 04
+|  o o.ooo| 1X
+|    o.oo | 0W
+323: U64911XW AMM/cr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+324: 78000002 tb    }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+325: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+326: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+327: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+328: 00000002      }
+|   o .   | 00
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+329: 039W79W6  IIII}
+|  ooo.   | 18
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o  .oo | 16
+|     . o | 02
+32S: 618W7962 YYIIY}
+| oooo.  o| 39
+| o o .o  | 24
+|   oo.  o| 09
+|   o .o o| 05
+|  o o.ooo| 1X
+|    o.oo | 0W
+32T: W64915XW IMMVcr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+32U: 78000002 tb    }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+32V: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+32W: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+32X: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+330: 00000002      }
+|   o .   | 00
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+331: 039W79W6  IIII}
+| oooo.  o| 39
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+332: W58W79W6 IYIII}
+| oo  .  o| 31
+| o o .o  | 24
+|   oo.  o| 09
+|   o .o o| 05
+|  o o.ooo| 1X
+|    o.oo | 0W
+333: U64915XW AMMVcr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+334: 78000002 tb    }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+335: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+336: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+337: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+338: 00000002      }
+|   o .   | 00
+| oo o. oo| 3T
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+339: 03TW79W6  .III}
+| oooo.  o| 39
+|  ooo.   | 18
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o. o | 1S
+|     . o | 02
+33S: W58W79S2 IYIIQ}
+| o o .o  | 24
+| o o .o  | 24
+|   oo.  o| 09
+|   oo.ooo| 0X
+| oo  .ooo| 37
+|   oo. o | 0S
+33T: 92493X7S MMMcrtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+33U: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+33V: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+33W: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+33X: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+340: 00000002      }
+| oo o. oo| 3T
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+341: WX9W79W6 .IIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o o.o  | 1U
+|  o o.  o| 19
+|     . o | 02
+342: W79W7192 IIIAM}
+| o o .o  | 24
+|  o  .o o| 15
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+343: 915XVW02 MVcrtb }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+344: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+345: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+346: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+347: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|    o.oo | 0W
+348: 000000WW     .}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+349: W79W79W6 IIIII}
+| oooo.  o| 39
+| o oo.   | 28
+|   oo.  o| 09
+|   oo.  o| 09
+|   oo.  o| 09
+|     . o | 02
+34S: W6892492 IQMMM}
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+34T: XVW00002 crtb   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+34U: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+34V: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+34W: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+34X: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+350: 000039W6    II}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.o  | 1U
+|   o .oo | 06
+351: W79W79U6 IIIIA}
+| o o .o  | 24
+| o o .o  | 24
+|    o.oo | 0W
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+352: 924WXX7S MM.crtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+353: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+354: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+355: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+356: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+357: 00000002      }
+|   o .   | 00
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+358: 039W79W6  IIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   oo.  o| 09
+|   oo.  o| 09
+|   oo.  o| 09
+|     . o | 02
+359: W7992492 IIMMM}
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+35S: XVW00002 crtb   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+35T: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+35U: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+35V: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+35W: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo o.oo | 3W
+|   o .oo | 06
+35X: 00003TW6    .I}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.  o| 19
+|     . o | 02
+360: W79W7992 IIIIM}
+| o o .o  | 24
+|  o  .o o| 15
+|   oo.ooo| 0X
+| oo  .ooo| 37
+| o   .   | 20
+|     . o | 02
+361: 915XVW02 MVcrtb }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+362: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+363: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+364: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+365: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|    o.oo | 0W
+366: 000000WW     .}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+367: W79W79W6 IIIII}
+| oo  .  o| 31
+| o o .o  | 24
+|   oo.  o| 09
+|    o.oo | 0W
+|  o o.ooo| 1X
+|    o.oo | 0W
+368: U64939XW AMMIcr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+369: 78000002 tb    }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+36S: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+36T: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+36U: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+36V: 00000002      }
+|   o .   | 00
+|  oo .  o| 11
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+36W: 011W79W6  /III}
+| oooo.  o| 39
+|  ooo.   | 18
+|   oo.  o| 09
+|   o .o o| 05
+| ooo .o o| 35
+|    o.oo | 0W
+36X: W589175W IYMXX}
+|  ooo.   | 18
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+370: 63X78002 Ycrtb  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+371: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+372: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+373: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+374: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+375: 000039W6    II}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.o  | 1U
+|   o .oo | 06
+376: W79W79U6 IIIIA}
+|  oo .ooo| 17
+|  ooo.   | 18
+|    o.oo | 0W
+|  o o.ooo| 1X
+| oo  .ooo| 37
+|   oo. o | 0S
+377: 5V8W7X7S XYIcrtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+378: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+379: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+37S: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+37T: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo  .o  | 34
+|   o .oo | 06
+37U: 00003T46    ./}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o. o | 1S
+|     . o | 02
+37V: W79W79S2 IIIIQ}
+| o o .o  | 24
+|  oo .ooo| 17
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+37W: 917W79W6 MXIII}
+| oo o. oo| 3T
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+37X: WXX78002 .crtb  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+380: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+381: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+382: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+383: 00000002      }
+| oo o. oo| 3T
+|  oo .  o| 11
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+384: WV1W79W6 ./III}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  o o. o | 1S
+|  o  .o o| 15
+|    o.oo | 0W
+385: W79W695W IIIRX}
+|  ooo.   | 18
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  o o.ooo| 1X
+|    o.oo | 0W
+386: 639W79XW YIIIcr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+387: 78000002 tb    }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+388: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+389: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+38S: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo  .o  | 34
+|  ooo.oo | 1W
+|   o .oo | 06
+38T: 000WV1W6   ./I}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+38U: W79W79W6 IIIII}
+| oo  .  o| 31
+| oooo.  o| 39
+|   oo.  o| 09
+|   o .o o| 05
+| oo o.oo | 3W
+|   o .oo | 06
+38V: U79917W6 AIMXI}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+38W: W79WXX7S II.crtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+38X: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+390: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+391: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+392: 00000002      }
+| oo  .  o| 31
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+393: U79W79W6 AIIII}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+| ooo .o o| 35
+|  o  .   | 10
+|     . o | 02
+394: W795V502 IIXV }
+| oo o. oo| 3T
+| o o .o  | 24
+|   o .oo | 06
+|    o.oo | 0W
+|  ooo.oo | 1W
+|   o .oo | 06
+395: WW4639W6 .MYII}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+396: W79WXX7S II.crtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+397: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+398: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+399: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|    o.oo | 0W
+39S: 000000WW     .}
+| oo o. oo| 3T
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+39T: WX9W79W6 .IIII}
+| oooo.  o| 39
+|  oo .ooo| 17
+|     .o  | 04
+|  o  .   | 10
+|   o .   | 00
+|     . o | 02
+39U: W5744002 IX/  }
+|   o .   | 00
+| oo o. oo| 3T
+|    o.oo | 0W
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+39V: 03TWW79W  ..PP}
+|  ooo.   | 18
+| oo o. oo| 3T
+|    o.oo | 0W
+| oo o.oo | 3W
+| oooo.ooo| 3X
+|    o.oo | 0W
+39W: 63TWXTXW Y...cr}
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+39X: 78000002 tb    }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+3S0: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+3S1: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|    o.oo | 0W
+3S2: 000000WW     .}
+| oo o. oo| 3T
+| oo o. oo| 3T
+|    o.oo | 0W
+| ooo .oo | 36
+|   oo.  o| 09
+|    o.oo | 0W
+3S3: WXTWV89W ...YP}
+| oooo.  o| 39
+| oooo.  o| 39
+|   o .o o| 05
+|  o  .   | 10
+|   o .   | 00
+|     . o | 02
+3S4: W7954002 IIV  }
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo o.oo | 3W
+| oo o.oo | 3W
+|    o.oo | 0W
+3S5: 000WXTWW   ...}
+| oo o. oo| 3T
+|  oo .  o| 11
+|     .o  | 04
+|  oo .o  | 14
+|  oo .o  | 14
+|   o .oo | 06
+3S6: WV145146 .////}
+| oo o. oo| 3T
+| oooo.ooo| 3X
+|     .ooo| 07
+| o   .   | 20
+|   o .   | 00
+|     . o | 02
+3S7: WXX78002 .crtb  }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+3S8: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+3S9: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+3SS: 00000002      }
+|   o .   | 00
+| oo o. oo| 3T
+|     .o  | 04
+|  oo .o  | 14
+|  oo .o  | 14
+|   o .oo | 06
+3ST: 03T45146  .///}
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o oo.oo | 2W
+| oo o.oo | 3W
+|    o.oo | 0W
+3SU: X2SWTTWW uc!lc..}
+| oo o. oo| 3T
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+3SV: WU000002 .    }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oo o.oo | 3W
+|    o.oo | 0W
+3SW: 00003TWW    ..}
+| oooo.  o| 39
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.   | 18
+| oo o.o o| 3V
+|     . o | 02
+3SX: W79W63V2 IIILD}
+| oooo.ooo| 3X
+|  ooo.oo | 1W
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+3T0: XVW00002 crtb   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+3T1: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+3T2: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+3T3: 00000002      }
+| oo o. oo| 3T
+| oooo.  o| 39
+|    o.oo | 0W
+|  ooo.oo | 1W
+|  ooo.oo | 1W
+|   o .oo | 06
+3T4: WX9W79W6 .IIII}
+|  oo .  o| 11
+| oo o. oo| 3T
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+3T5: 47T00002 /.   }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+3T6: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+| oooo.ooo| 3X
+|     . o | 02
+3T7: 00003TX2    .uc}
+| o  o. o | 2S
+| oooo. o | 3S
+|    o.oo | 0W
+| oooo.ooo| 3X
+| oo  .ooo| 37
+|   oo. o | 0S
+3T8: STSWXX7S !lc.crtb}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+3T9: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+3TS: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|     . o | 02
+3TT: 00000002      }
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o.oo | 0W
+|    o.oo | 0W
+3TU: 000000WW     .}
+| oooo.o  | 3U
+| o  o. o | 2S
+|    o.oo | 0W
+| o  o.o  | 2U
+|  o  .o o| 15
+|    o.oo | 0W
+3TV: X2SWT15W uc!lcAX}
+| oooo.  o| 39
+| oooo.ooo| 3X
+|     .ooo| 07
+| o  o.ooo| 2X
+| oooo.ooo| 3X
+|    o.oo | 0W
+3TW: W7X7TXXW Icrtbcrcr}
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+3TX: 00000000       
+|    o.o o| 0V
+|   o .   | 00
+|     .o  | 04
+|  ooo.   | 18
+|   o .   | 00
+|    o.oo | 0W
+3U0: 3404600W : /-3}
+| o   . oo| 23
+|     . o | 02
+|   o .   | 00
+|  ooo.   | 18
+|   o .   | 00
+|     .o  | 04
+3U1: 8U206004 L21-1 
+| ooo .   | 30
+|   o .   | 00
+|   o .o o| 05
+| oo o.   | 38
+|   o .   | 00
+|   o . oo| 03
+3U2: U005W003 & X-  
+|  ooo.   | 18
+|   o .   | 00
+|   oo.o  | 0U
+| oooo.o  | 3U
+|   o .   | 00
+|   o . oo| 03
+3U3: 600UX003 Y C&  
+| ooo .   | 30
+|   o .   | 00
+|   o .o o| 05
+| o oo.   | 28
+| o o .ooo| 27
+|   oo.ooo| 0X
+3U4: U005S27X & WK" 
+|   oo.o  | 0U
+| oooo.o  | 3U
+|     .  o| 01
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+3U5: 33U10000 @uc4   
+|oo o .   | S0
+# Found End of Data at 5779
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|   o .   | 00
+|    o. o | 0S

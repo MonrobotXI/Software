@@ -1,0 +1,199 @@
+UT-2 Program Input from Typewriter - 3S0
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|ooo o.ooo| TX
+|    o.oo | 0W
+| o   .   | 20
+| o oo.   | 68
+| oo o.   | 38
+|   o .   | 40
+| oo  .o  | 34
+| oo o. oo| 3T
+|     .ooo| 07
+| o  o.o  | 2U
+|   o .   | 40
+|     .  o| 01
+| oo  .o  | 34
+| oo o. oo| 3T
+|    o.   | 08
+| o  o.o  | 2U
+|   o .   | 40
+|     . o | 02
+| oo  .o  | 34
+| oo o. oo| 3T
+|   oo.  o| 49
+| o  o.o  | 2U
+|   o .   | 40
+|   o . oo| 43
+| oo  .  o| 31
+|  o  .   | 10
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+| o oo.   | 68
+| oo o.   | 38
+|   o .   | 40
+| oooo.o  | 7U
+| oo o. oo| 3T
+|   oo. o | 4S
+| o  o.o  | 2U
+| oo o. oo| 3T
+|     . o | 02
+| oo  .  o| 31
+|  o  .   | 10
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+| oooo.o  | 7U
+| oo o. oo| 3T
+|   oo. o | 4S
+| oooo.o  | 7U
+|   o .   | 40
+|     .  o| 01
+| o  o.o  | 2U
+|   o .   | 40
+|   o .   | 40
+|   oo.o  | 4U
+| oooo. o | 7S
+|   oo.  o| 49
+| o oo.   | 68
+| oo o.   | 38
+|   o .   | 40
+|  ooo.   | 58
+| oo o. oo| 3T
+|   o .oo | 46
+| oo  .  o| 31
+|  o  .   | 10
+|   o .   | 40
+|   oo.o  | 4U
+| oooo. o | 7S
+|    o. oo| 0T
+| o  o.o  | 2U
+|   o .   | 40
+|   o .o o| 45
+|    o.   | 08
+| o   .   | 20
+|   o .   | 40
+|  o o.o  | 1U
+| oo o. oo| 3T
+|    o. oo| 0T
+|  ooo.   | 58
+| oo o. oo| 3T
+|     . o | 02
+| oo o.   | 38
+|   o .   | 40
+|   o . oo| 43
+|  ooo.   | 58
+| oooo. o | 7S
+|   oo.ooo| 4X
+|  o o.o  | 1U
+| oo o. oo| 3T
+|     .  o| 01
+| oooo.o  | 7U
+|   o .   | 40
+|     . o | 02
+| ooo .   | 70
+|   o .   | 40
+|   o .o o| 45
+| o o .o  | 64
+|   o .   | 40
+|    o.   | 08
+| oooo.o  | 7U
+|   o .   | 40
+|   o .o o| 45
+|   oo.o  | 4U
+| oooo. o | 7S
+|    o. oo| 0T
+| oooo.o  | 7U
+|   o .   | 40
+|   o . oo| 43
+|   oo.o  | 4U
+| oooo. o | 7S
+|   oo.ooo| 4X
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+| oo  .o  | 34
+| oo o. oo| 3T
+|     . o | 02
+| oooo.o  | 7U
+|   o .   | 40
+|     .  o| 01
+| o  o.o  | 2U
+| oo o. oo| 3T
+|     . o | 02
+| oo o.   | 38
+|   o .   | 40
+|   o .   | 40
+|   oo.o  | 4U
+| oooo. o | 7S
+|   oo.  o| 49
+|   oo.o  | 4U
+| oo o. oo| 3T
+|   o .oo | 46
+| o oo.   | 68
+| oo  .ooo| 37
+|   o .o o| 45
+|   oo.o  | 4U
+| oooo. o | 7S
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|     .  o| 01
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|    o.   | 08
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|     .  o| 01
+|   o .   | 40
+| oo  .o  | 34
+|   o .   | 40
+|   o .o o| 45
+| o  o.o  | 2U
+|   o .   | 40
+|   o .   | 40
+| o oo.   | 68
+| ooo .oo | 76
+|     .ooo| 07
+| o oo.   | 68
+| oo  .o  | 34
+|   o .   | 40
+| o oo.   | 68
+| oo  .ooo| 37
+|   o .o o| 45
+|   oo.o  | 4U
+| oooo. o | 7S
+|   oo.  o| 49
+|oo o .   | W0
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40
+|   o .   | 40

@@ -1,0 +1,277 @@
+UT-5 Program Output to Typewriter - 3S0
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|ooo o.ooo|	TX
+|    o.oo |	0W
+| o   .   |	20
+| o oo.   |	68
+| oo o.   |	38
+|   o .   |	40
+| oo  .  o|	31
+|  o  .   |	10
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|  oo .o  |	54
+| oooo.o  |	7U
+|   o .o o|	45
+| o oo.   |	68
+| oo o.   |	38
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+| ooo .   |	70
+|   o .   |	40
+|   o .o o|	45
+| oooo.o  |	7U
+| oooo.o  |	7U
+|     .o  |	04
+| o  o.o  |	2U
+|   o .   |	40
+|   o .   |	40
+| oo  .o  |	34
+|   o .   |	40
+|   o .o o|	45
+|  oo .o  |	54
+| oooo.o  |	7U
+|   o .o o|	45
+|    o.   |	08
+| o   .   |	20
+|   o .   |	40
+| oo  .o  |	34
+|   o .   |	40
+|   o .o o|	45
+| oooo.o  |	7U
+| oooo.o  |	7U
+|     .o  |	04
+| o  o.o  |	2U
+|   o .   |	40
+|   o . oo|	43
+| oooo.o  |	7U
+|   o .   |	40
+|     .o  |	04
+| o  o.o  |	2U
+|   o .   |	40
+|     .  o|	01
+|    o.o o|	0V
+| oooo.o  |	7U
+|   o . oo|	43
+| o o .o  |	64
+|   o .   |	40
+|    o.   |	08
+|    o.o o|	0V
+| oo o. oo|	3T
+|    o.   |	08
+|    o.o o|	0V
+| oo o. oo|	3T
+|    o.   |	08
+|    o.o o|	0V
+| oo o. oo|	3T
+|    o.   |	08
+|    o.o o|	0V
+|   o .   |	40
+|   o .   |	40
+|  ooo.   |	58
+| oooo.o  |	7U
+|     . o |	02
+| o oo.   |	68
+| ooo .o o|	75
+|    o.oo |	0W
+| o oo.   |	68
+|  o  .   |	10
+|   o .   |	40
+|    o.o o|	0V
+| oo o. oo|	3T
+|    o.   |	08
+|    o.o o|	0V
+| oo o. oo|	3T
+|    o.   |	08
+|    o.o o|	0V
+| oo o. oo|	3T
+|    o.   |	08
+|    o.o o|	0V
+| oo o. oo|	3T
+|    o.   |	08
+| o oo.   |	68
+| oo o.   |	38
+|   o .   |	40
+| o oo.   |	68
+| ooo .o o|	75
+|    o.oo |	0W
+|    o.o o|	0V
+| oo o. oo|	3T
+|    o.   |	08
+|    o.o o|	0V
+| oo o. oo|	3T
+|    o.   |	08
+|    o.o o|	0V
+| oo o. oo|	3T
+|    o.   |	08
+|    o.o o|	0V
+| oo o. oo|	3T
+|    o.   |	08
+| o oo.   |	68
+| oo o.   |	38
+|   o .   |	40
+| oo  .o  |	34
+|   o .   |	40
+|   o .   |	40
+| oo o.   |	38
+|   o .   |	40
+|   o . oo|	43
+|  ooo.   |	58
+| oooo. o |	7S
+|   o .   |	40
+| oooo.o  |	7U
+|   o .   |	40
+|     .  o|	01
+| o  o.o  |	2U
+|   o .   |	40
+|   o .   |	40
+| oo o.o o|	3V
+| oooo.o  |	7U
+|   o .oo |	46
+|  ooo.   |	58
+| oo o. oo|	3T
+|   oo.ooo|	4X
+| o oo.   |	68
+| oo o.   |	38
+|   o .   |	40
+| oo  .o  |	34
+|   o .   |	40
+|   o .   |	40
+|   oo.o  |	4U
+| oooo. o |	7S
+|   oo.  o|	49
+|   oo.o  |	4U
+| oo o. oo|	3T
+|    o.   |	08
+| o   . oo|	23
+|   o .   |	40
+|    o.   |	08
+| ooo .   |	70
+|   o .   |	40
+|   o .o o|	45
+|  ooo.   |	58
+| oo o. oo|	3T
+|    o.o o|	0V
+| oo o.   |	38
+| oooo.o  |	7U
+|     .ooo|	07
+|  o o.o  |	1U
+| oo o. oo|	3T
+|    o.oo |	0W
+| oooo.o  |	7U
+| oooo.o  |	7U
+|    o.   |	08
+| ooo .   |	70
+|   o .   |	40
+|   o .o o|	45
+| o oo.   |	68
+| o o .ooo|	67
+|   oo.ooo|	4X
+|   oo.o  |	4U
+|   o .   |	40
+|     . o |	02
+|   oo.o  |	4U
+| oo o. oo|	3T
+|    o.o o|	0V
+| o   .o o|	25
+|     .  o|	01
+|   o .   |	40
+|   oo.o  |	4U
+| oo o. oo|	3T
+|    o. oo|	0T
+| oooo.o  |	7U
+| oooo.o  |	7U
+|     .ooo|	07
+|   oo.o  |	4U
+| oo o. oo|	3T
+|    o. oo|	0T
+| oo  .o  |	34
+| oooo.o  |	7U
+|   oo.  o|	49
+|   oo.o  |	4U
+| oooo.o  |	7U
+|   o .   |	40
+| o oo.   |	68
+| oo o.   |	38
+|   o .   |	40
+|  ooo.   |	58
+| oo o. oo|	3T
+|   o .oo |	46
+| oo o.   |	38
+|   o .   |	40
+|     .o  |	04
+|   oo.o  |	4U
+| oooo.o  |	7U
+|   o .   |	40
+| o oo.   |	68
+| oo o.   |	38
+|   o .   |	40
+|   oo.o  |	4U
+| oo o. oo|	3T
+|     . o |	02
+| o oo.   |	68
+|     .ooo|	07
+|   oo.ooo|	4X
+|   oo.o  |	4U
+| oooo.o  |	7U
+|     .o  |	04
+| oo  .o  |	34
+|   o .   |	40
+|   o .   |	40
+|   oo.o  |	4U
+|   o .   |	40
+|     . o |	02
+|   o .   |	40
+|   o .   |	40
+|     .  o|	01
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   oo.ooo|	4X
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   oo. o |	4S
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|     .  o|	01
+|     . o |	02
+|   o .   |	40
+|     .  o|	01
+|     .  o|	01
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|oo o .   |	W0
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40
+|   o .   |	40

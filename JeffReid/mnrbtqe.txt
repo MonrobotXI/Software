@@ -1,0 +1,106 @@
+Monrobot XI quadratic equation program
+instruction names changed to current conventions
+wr = working register
+
+ 1       2       49     type A
+ 2       2       13     tab
+ 3       2       50     type B
+ 4       2       11     tab
+ 5       2      115     type C 
+ 6      11        -     type return
+ 7      11        -     type return
+ 8      24        3     set loop counter to 3 (read a b c)
+ 9       1        -     read number into working register
+10      25        -     index next operand with loop count (0 to n-1)
+11      10      100     store [100+loop count] = 100, 101, 102
+12      26        9     loop to 9
+13       8      100     load [100] = A
+14      16       50     branch to 50 if zero
+15      28      100     add [100] = 2A
+16      10      103     store [103] = 2A
+17      28      103     add [103] = 4A
+18      32      102     mul [102]  = 4AC
+19      10      104     store [104] = 4AC
+20      23        -     zero
+21      30      101     sub [101]  = -B
+22      10      105     store [105] = -B
+23       8      103     load [103] = 2A
+24      34      105     div [105] / wr  = -B/2A
+25      10      107     store [107] = -B/2A
+26       8      101     load [101] = B
+27      32      101     mul [101] = B^2
+28      30      104     sub [104] = B^2 - 4AC
+29      10      106     store [106] = B^2 - 4AC
+30      14       62     branch to 62 if < zero
+31       2       41     type R          (real roots)
+32       2       64     type space
+33       2       41     type R
+34       2       19     type T
+35      11        -     type return
+36       2       87     type X
+37       2        1     type 1
+39       2       64     type space
+40      28       88     call 88
+41       5        -     type [wr] = (-B + SQRT(B^2 - 4AC)/2A
+42      11        -     type return
+43       2       87     type X
+44       2        2     type 2
+45       2       64     type space
+46       8      107     load [107] = -B/2A
+47      30      109     sub [109] = (-B - SQRT(B^2 - 4AC)/2A
+48       5        -     type [wr]
+49      12        6     branch to 6
+
+                        A = 0
+
+50      30      102     sub [102] = -C  (A = 0)
+51      10      110     storr [110]
+52       8      101     load [101] = B
+53      34      110     div [110] / wr = -B/C
+54       2       35     type L   (linear)
+55       2      121     type I
+56       2       37     type N
+57      11        -     type return
+58       2       87     type X
+59       2       64     type space
+60       5        -     type [wr]
+61      12        6     branch to 6
+
+                        B^2 - 4AC < 0
+
+62      23        -     zero
+63      30      106     sub [106] = -(B^2 - 4AC)
+64      18       88     call 88
+65      23        -     zero
+66      30      109     sub [109] = -sqrt(abs(B^2-4AC))/2A
+67      10      111     store [111]
+68       2      115     type C  (complex)
+69       2       87     type X
+70      11        -     type return
+71       2       41     type R
+72       2       65     type space
+73       8      107     load [107]
+74       5        -     type [wr]
+75      11        -     type return
+76       2      121     type I
+77       2        1     type 1
+78       2       64     type space
+79       8      109     load [109] = sqrt(abs(B^2-4AC))/2A
+80       5        -     type [wr]
+81      11        -     type return
+82       2      121     type I
+83       2        2     type 2
+84       2       64     type space
+85       8      111     load [111] = -sqrt(abs(B^2-4AC))/2A
+86       5        -     type [wr]
+87      12        6     branch to 6
+
+                        subroutine  wr = abs(B^2-4AC) 
+
+88      27        -     sqrt = sqrt(abs(B^2-4AC))
+89      10      108     store [108] =  sqrt(abs(B^2-4AC))
+90       8      103     load [103] = 2A
+91      34      108     div [108] / wr = sqrt(abs(B^2-4AC))/2A
+92      10      109     store [109] = sqrt(abs(B^2-4AC))/2A
+93      19              subroutine exit (return)
+94      end

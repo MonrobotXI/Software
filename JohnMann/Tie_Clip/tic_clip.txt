@@ -1,0 +1,16 @@
+| ooo . oo| 33  C
+| oo o.   | 38  H
+| ooo .o o| 35  E
+| oo  .o  | 34  D
+|   o .   | 00   
+|  o  . oo| 13  T
+| oo  .  o| 31  A
+| o o .ooo| 27  P
+| ooo .o o| 35  E
+| oo o. oo| 3T  .
+|o    .   | 80 CR
+|  o  . oo| 13  T
+| oo o.   | 38  H
+| oooo.  o| 39  I
+|  oo . o | 12  S
+|   o .   | 00   
